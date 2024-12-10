@@ -12,8 +12,8 @@ Route::get('/about', function ()
 Route::get('/contact-us', function () {
     return view('contactus');
 });
-Route::get('/welcome', function () {
-    return view('welcome');
+Route::get('/loan', function () {
+    return view('loan');
 });
 Route::get('/loan-calculator', function () {
     return view('loancalculator');
