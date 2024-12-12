@@ -1,4 +1,4 @@
-<x-layout>
+<x-loanapp>
 <div class="page-header">
     <div class="container">
         <div class="row">
@@ -25,16 +25,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="sub-nav" id="sub-nav">
-                    <ul class="nav nav-justified">
-                        <li class="nav-item">
-                            <a href="contact-us.html" class="nav-link">Give me call back</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">Emi Caculator</a>
-                        </li>
-                    </ul>
-                </div>
+
             </div>
         </div>
     </div>
@@ -103,4 +94,4 @@
 </div>
 <!-- /.content end -->
 
-</x-layout>
+</x-loanapp>

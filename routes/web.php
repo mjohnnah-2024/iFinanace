@@ -5,15 +5,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
-Route::get('/about', function ()
+Route::get('/about-us', function ()
 {
     return view('about');
 });
 Route::get('/contact-us', function () {
-    return view('contactus');
+    return view('contact');
 });
-Route::get('/loan', function () {
-    return view('loan');
+Route::get('/products', function () {
+    return view('products');
 });
 Route::get('/loan-calculator', function () {
     return view('loancalculator');

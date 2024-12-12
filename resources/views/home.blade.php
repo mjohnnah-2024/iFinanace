@@ -11,14 +11,14 @@
                             <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">The low rate you need for the need you want! Call
                                 <br>
                                 <strong class="text-highlight">(+675) 311-2200 or 311-2202</strong></p>
-                            <a href="team.html" class="btn btn-default">Loan Products</a> </div>
+                            <a href="/" class="btn btn-default">Loan Products</a> </div>
                         <!-- /.slider-captions -->
                     </div>
                 </div>
             </div>
         </div>
         <div>
-            <div class="slider-img"><img src="images/slider-2.jpg" alt="iFinance - Loan Company Website Template" class="">
+            <div class="slider-img"><img src="images/slider-2.jpg" alt="iFinance - Loan Company Website" class="">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
@@ -26,7 +26,7 @@
                                 <!-- slider-captions -->
                                 <h1 class="slider-title"> Lowest Business Loan Rate <strong class="text-highlight">9.60%</strong> </h1>
                                 <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide an excellent service Loan company. Lorem ipsum simple dummy content goes here.</p>
-                                <a href="#" class="btn btn-default">Check Eligiblity</a> </div>
+                                <a href="/loan-eligibility" class="btn btn-default">Check Eligiblity</a> </div>
                             <!-- /.slider-captions -->
                         </div>
                     </div>
@@ -34,13 +34,13 @@
             </div>
         </div>
         <div>
-            <div class="slider-img"><img src="images/slider-3.jpg" alt="iFinance - Loan Company Website Template" class="">
+            <div class="slider-img"><img src="images/slider-3.jpg" alt="iFinance - Loan Company Website" class="">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                             <div class="slider-captions">
                                 <!-- slider-captions -->
-                                <h1 class="slider-title">SME Loans with Greate Rates <strong class="text-highlight">11.10%</strong></h1>
+                                <h1 class="slider-title">SME Loan <strong class="text-highlight"> with Greate Rates</strong></h1>
                                 <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">We provide an excellent service for all types of loans in
                                     <br> ahmedabad and offer service, advice and direction.</p>
                                 <a href="#" class="btn btn-default ">View Products</a> </div>
@@ -56,28 +56,19 @@
             <div class="row">
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
                     <div class="rate-counter-block">
-                        <div class="icon rate-icon  "> <img src="images/mortgage.svg" alt="iFinance - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="icon rate-icon  "> <img src="images/mortgage.svg" alt="iFinance - Loan Company Website" class="icon-svg-1x"></div>
                         <div class="rate-box">
                             <h1 class="loan-rate">3.74%</h1>
-                            <small class="rate-title">Home Loans</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
-                    <div class="rate-counter-block">
-                        <div class="icon rate-icon  "> <img src="images/loan.svg" alt="iFinance - Loan Company Website Template" class="icon-svg-1x"></div>
-                        <div class="rate-box">
-                            <h1 class="loan-rate">8.96%</h1>
                             <small class="rate-title">Personal Loans</small>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6">
                     <div class="rate-counter-block">
-                        <div class="icon rate-icon  "> <img src="images/car.svg" alt="iFinance - Loan Company Website Template" class="icon-svg-1x"></div>
+                        <div class="icon rate-icon  "> <img src="images/loan.svg" alt="iFinance - Loan Company Website" class="icon-svg-1x"></div>
                         <div class="rate-box">
-                            <h1 class="loan-rate">6.70%</h1>
-                            <small class="rate-title">Car Loans</small>
+                            <h1 class="loan-rate">8.96%</h1>
+                            <small class="rate-title">Business / SME Loans</small>
                         </div>
                     </div>
                 </div>
@@ -86,7 +77,7 @@
                         <div class="icon rate-icon  "> <img src="images/credit-card.svg" alt="iFinance - Loan Company Website Template" class="icon-svg-1x"></div>
                         <div class="rate-box">
                             <h1 class="loan-rate">9.00%</h1>
-                            <small class="rate-title">Refinancing</small>
+                            <small class="rate-title">Loan Refinancing</small>
                         </div>
                     </div>
                 </div>
@@ -99,7 +90,7 @@
                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title start-->
-                        <h1>Find Loan Products We Offers</h1>
+                        <h1>Loan Products We Offer</h1>
                         <p>We will match you with a loan program that meet your financial need. In short term liquidity, by striving to make funds available to them <strong>within 24 hours of application.</strong></p>
                     </div>
                     <!-- /.section title start-->
@@ -111,29 +102,25 @@
                         <div class="bg-white pinside40 service-block outline mb30">
                             <div class="icon mb40"> <img src="images/loan.svg" alt="iFinance - Loan Company Website Template" class="icon-svg-2x"> </div>
                             <h2><a href="#" class="title">Personal Loan</a></h2>
-                            <p>Lorem ipsum dolor sit ameectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque</p>
+                            <p>iFinance offer Personal Loans to its customers working in the Public Sector and Private Sector to cover their short-term borrowing needs</p>
                             <a href="#" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
                             <div class="icon mb40"> <img src="images/mortgage.svg" alt="iFinance - Loan Company Website Template" class="icon-svg-2x"></div>
                             <h2><a href="#" class="title">Business Loan</a></h2>
-                            <p>Sed ut perspiciatis unde omnis rror sit voluptatem accusan tium dolo remque laudantium, totam rem aperiam, eaque ipsa </p>
-                            <a href="#" class="btn-link">Read More</a> </div>
-                    </div>
-                   <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div class="bg-white pinside40 service-block outline mb30">
-                            <div class="icon mb40"> <img src="images/piggy-bank.svg" alt="iFinance - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">Loan Refinancing</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elmodo ligula eget dolor. Aenean massa. Cum sociis natoque</p>
-                            <a href="#" class="btn-link">Read More</a> </div>
+                            <p>Businesses frequently need funds for operations and investments. iFinance provides low-interest financing that reduces borrowing costs,
+                            allowing for more investment and growth.</p>
+                            <a href="/" class="btn-link">Read More</a> </div>
                     </div>
                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="bg-white pinside40 service-block outline mb30">
                             <div class="icon mb40"> <img src="images/loan.svg" alt="iFinance - Loan Company Website Template" class="icon-svg-2x"></div>
-                            <h2><a href="#" class="title">Business Loan</a></h2>
-                            <p>Lorem ipsum dolor sit nean commodo ligula eget dolor simple dummyum sociis natoque.amet, consectetuer adipiscing elit. </p>
-                            <a href="#" class="btn-link">Read More</a> </div>
+                            <h2><a href="#" class="title">Refinancing Loan</a></h2>
+                            <p>iFinance provides loan refinancing for an existing loan with a new one that has more favorable terms. This often involves getting
+                                 a lower interest rate, changing the loan term, or both. It's like getting a better deal on your existing loan.
+                                 </p>
+                            <a href="/" class="btn-link">Read More</a> </div>
                     </div>
                 </div>
             </div>
@@ -162,7 +149,7 @@
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block outline mb60 bg-boxshadow">
                         <div class="circle"><span class="number">2</span></div>
-                        <h3 class="number-title">Approved Your Loan</h3>
+                        <h3 class="number-title">Get Your Loan Approved</h3>
                         <p>Fusce tempor sstibulum varius sem nec mi luctus viverra edcongue lobortis faucibus.</p>
                     </div>
                 </div>
@@ -175,7 +162,7 @@
                 </div>
             </div>
             <div class="row">
-                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12 text-center"> <a href="#" class="btn btn-default">View Our Loans</a> </div>
+                 <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12 text-center"> <a href="/apply" class="btn btn-default">Apply Now</a> </div>
             </div>
         </div>
     </div>
@@ -257,7 +244,7 @@
                             <div class="testimonial-img pull-left"> <img src="images/testimonial-img-1.jpg" alt="iFinance - Loan Company Website Template"> </div>
                             <div class="testimonial-autor pull-left">
                                 <h4 class="testimonial-name">Mary O. Randle</h4>
-                                <span class="testimonial-meta">Education Loan</span> </div>
+                                <span class="testimonial-meta">Refinancing</span> </div>
                         </div>
                     </div>
                 </div>
@@ -270,7 +257,7 @@
                             <div class="testimonial-img pull-left"> <img src="images/testimonial-img-2.jpg" alt="iFinance - Loan Company Website Template"> </div>
                             <div class="testimonial-autor pull-left">
                                 <h4 class="testimonial-name">Lindo E. Olson</h4>
-                                <span class="testimonial-meta">Car Loan</span> </div>
+                                <span class="testimonial-meta">Business Loan</span> </div>
                         </div>
                     </div>
                 </div>
@@ -295,7 +282,7 @@
                  <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title start-->
-                        <h1>Latest News from Loan Company</h1>
+                        <h1>Latest News, Promotions and Updates</h1>
                         <p> Our mission is to deliver reliable, latest news and opinions.</p>
                     </div>
                     <!-- /.section title start-->
@@ -308,7 +295,7 @@
                             <a href="blog-single.html" class="imghover"><img src="images/blog-img.jpg" alt="iFinance - Loan Company Website Template" class="img-fluid"></a>
                         </div>
                         <div class="bg-white pinside40 outline">
-                            <h2><a href="blog-single.html" class="title">Couples Buying New Home Loan</a></h2>
+                            <h2><a href="blog-single.html" class="title">Thinking of refinancing your Loan</a></h2>
                             <p class="meta"><span class="meta-date">Aug 25, 2017</span><span class="meta-author">By<a href="#"> Admin</a></span></p>
                             <p>Fusce sed erat libasellus id orci quis ligula pret do lectus velit, a malesuada urna sodales eu.</p>
                             <a href="blog-single.html" class="btn-link">Read More</a> </div>
@@ -332,7 +319,7 @@
                             <a href="blog-single.html" class="imghover"><img src="images/blog-img-2.jpg" alt="iFinance - Loan Company Website Templates" class="img-fluid"></a>
                         </div>
                         <div class="bg-white pinside40 outline">
-                            <h2><a href="blog-single.html" class="title">Are you students looking for loan ?</a></h2>
+                            <h2><a href="blog-single.html" class="title">Are you looking for a personalloan ?</a></h2>
                             <p class="meta"><span class="meta-date">Aug 23, 2017</span><span class="meta-author">By<a href="#"> Admin</a></span></p>
                             <p>Malesuada urna sodales euusce sed erat libasellus id orci quis ligula pretium co ctus velit.</p>
                             <a href="blog-single.html" class="btn-link">Read More</a> </div>
@@ -378,6 +365,5 @@
                 </div>
             </div>
         </div>
-    </div>+
-
+    </div>
 </x-layout>

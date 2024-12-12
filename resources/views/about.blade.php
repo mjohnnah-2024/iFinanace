@@ -5,7 +5,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="/">Home</a></li>
                             <li class="active">About us</li>
                         </ol>
                     </div>
@@ -14,18 +14,18 @@
                    <div class="bg-white pinside30">
                         <div class="row">
                            <div class="col-xl-4 col-lg-4 col-md-9 col-sm-12 col-12">
-                                <h1 class="page-title">About</h1>
+                                <h1 class="page-title">About Us</h1>
                             </div>
                             <div class="col-xl-8 col-lg-8 col-md-3 col-sm-12 col-12">
                                 <div class="row">
                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                        <div class="btn-action"> <a href="#" class="btn btn-default">How To Apply</a> </div>
+                                        <div class="btn-action"> <a href="#" class="btn btn-default">Apply</a> </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="sub-nav" id="sub-nav">
+                   <!-- <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
                                 <a href="contact-us.html" class="nav-link">Give me call back</a>
@@ -34,7 +34,7 @@
                                 <a href="#" class="nav-link">Emi Caculator</a>
                             </li>
                         </ul>
-                    </div>
+                    </div>---->
                 </div>
             </div>
         </div>
@@ -71,9 +71,10 @@
                                     <div class="lender-feature-list">
                                         <ul class="listnone bullet bullet-check-circle-default">
                                             <li>Integrity</li>
-                                            <li>Customer Focus</li>
-                                            <li>Teamwork</li>
-                                            <li>Extra repayments + redraw services</li>
+                                            <li>Colloboration</li>
+                                            <li>Accountibility</li>
+                                            <li>Respect</li>
+                                            <li>Excellence</li>
                                         </ul>
                                     </div>
 
@@ -86,7 +87,7 @@
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
                             <div class="text-center">
                                 <div class="icon"> <i class="icon-4x icon-users icon-default"></i>
-                                    <h1 class="big-title">150,000+</h1>
+                                    <h1 class="big-title">xxx+</h1>
                                     <div class="small-title">Customers Empowered</div>
                                 </div>
                             </div>
@@ -94,7 +95,7 @@
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4">
                             <div class="text-center">
                                 <div class="icon"> <i class="icon-4x icon-money icon-default"></i>
-                                    <h1 class="big-title">$5 billion+</h1>
+                                    <h1 class="big-title">Kxx.xx</h1>
                                     <div class="small-title">Borrowed</div>
                                 </div>
                             </div>
@@ -141,48 +142,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="bg-default pinside60 testimonial-section section-space120">
-                    <div class=" ">
-                        <div class="row">
-                            <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-8 col-sm-12 col-12">
-                                <div class="mb60 text-center section-title title-white">
-                                    <!-- section title start-->
-                                    <h1 class="title-white">Our Success Stories</h1>
-                                    <p>Our partners work with us because they believe in the value of our platform.</p>
-                                </div>
-                                <!-- /.section title start-->
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 clearfix">
-                                <div class="testimonial-block mb30">
-                                    <div class="bg-white pinside30 mb20">
-                                        <p class="testimonial-text text-center">“I loved the customer service you guys provided me. That was very nice and patient with questions I had. I would really like definitely come back here”</p>
-                                    </div>
-                                    <div class="testimonial-autor-box">
-                                        <div class="testimonial-img pull-left"> <img src="images/testimonial-img.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                                        <div class="testimonial-autor pull-left">
-                                            <h4 class="testimonial-name">Donny J. Griffin</h4>
-                                            <span class="testimonial-meta">Personal Loan</span> </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 clearfix">
-                                <div class="testimonial-block mb30">
-                                    <div class="bg-white pinside30 mb20">
-                                        <p class="testimonial-text text-center"> “I had a good experience with Insight Loan Services. I am thankful to insight for the help you guys gave me. My loan was easy and fast. thank you Insigtht”</p>
-                                    </div>
-                                    <div class="testimonial-autor-box">
-                                        <div class="testimonial-img pull-left"> <img src="images/testimonial-img-1.jpg" alt="Borrow - Loan Company Website Template"> </div>
-                                        <div class="testimonial-autor pull-left">
-                                            <h4 class="testimonial-name">Mary O. Randle</h4>
-                                            <span class="testimonial-meta">Education Loan</span> </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="cta-section pinside60 bg-white section-space120">
                     <div class=" ">
                         <div class="row">
@@ -190,7 +149,7 @@
                                 <div class="mb60 text-center section-title">
                                     <!-- section title start-->
                                     <h1>We are here to help you</h1>
-                                    <p>Our mission is to deliver reliable, latest news and opinions.</p>
+                                    <p>Our mission is to provide innovative and customized financial solutions, utilizing  the best cost-effective with a customer-centric approach to improve standards of living while harnessing and developing employees for a rewarding future</p>
                                 </div>
                                 <!-- /.section title start-->
                             </div>

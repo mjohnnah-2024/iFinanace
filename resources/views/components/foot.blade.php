@@ -16,6 +16,5 @@
 <!-- Back to top script -->
 <script src="js/back-to-top.js" type="text/javascript"></script>
 <script type="text/javascript" src="js/loan-elgiblity.js"></script>
-<!---<script type="text/javascript" src="js/simple-slider.js"></script>
-<script type="text/javascript" src="js/calculator.js"></script>--->
+
 
