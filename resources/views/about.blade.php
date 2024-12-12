@@ -24,8 +24,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                   <!-- <div class="sub-nav" id="sub-nav">
+                    </div>             <!-- <div class="sub-nav" id="sub-nav">
                         <ul class="nav nav-justified">
                             <li class="nav-item">
                                 <a href="contact-us.html" class="nav-link">Give me call back</a>

@@ -24,8 +24,8 @@
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                             <div class="slider-captions">
                                 <!-- slider-captions -->
-                                <h1 class="slider-title"> Lowest Business Loan Rate <strong class="text-highlight">9.60%</strong> </h1>
-                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide an excellent service Loan company. Lorem ipsum simple dummy content goes here.</p>
+                                <h1 class="slider-title">Business SME Loan<strong class="text-highlight"> with exellent rates</strong> </h1>
+                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide better and more afforable terms to refinance your exisiting loans.</p>
                                 <a href="/loan-eligibility" class="btn btn-default">Check Eligiblity</a> </div>
                             <!-- /.slider-captions -->
                         </div>
@@ -40,7 +40,7 @@
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                             <div class="slider-captions">
                                 <!-- slider-captions -->
-                                <h1 class="slider-title">SME Loan <strong class="text-highlight"> with Greate Rates</strong></h1>
+                                <h1 class="slider-title">Loan Refinancing <strong class="text-highlight"> with Greate Rates</strong></h1>
                                 <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">We provide an excellent service for all types of loans in
                                     <br> ahmedabad and offer service, advice and direction.</p>
                                 <a href="#" class="btn btn-default ">View Products</a> </div>

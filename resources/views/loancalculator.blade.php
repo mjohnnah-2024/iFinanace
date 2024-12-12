@@ -5,7 +5,7 @@
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="page-breadcrumb">
                     <ol class="breadcrumb">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li class="active">Loan Calculator</li>
                     </ol>
                 </div>
@@ -19,7 +19,7 @@
                         <div class="col-xl-8 col-lg-8 col-md-3 col-sm-12 col-12">
                             <div class="row">
                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                    <div class="btn-action"> <a href="#" class="btn btn-default">How To Apply</a> </div>
+                                    <div class="btn-action"> <a href="/" class="btn btn-default">How To Apply</a> </div>
                                 </div>
                             </div>
                         </div>
@@ -42,8 +42,8 @@
                                 <div class="bg-light pinside40 outline">
                                     <span>Loan Amount is </span>
                                     <strong>
-                                        <span class="pull-right" id="la_value">30000</span></strong>
-                                    <input type="text" data-slider="true" value="30000" data-slider-range="100000,5000000" data-slider-step="10000" data-slider-snap="true" id="la">
+                                        <span class="pull-right" id="la_value">500</span></strong>
+                                    <input type="text" data-slider="true" value="500" data-slider-range="100000,5000000" data-slider-step="10000" data-slider-snap="true" id="la">
                                     <hr>
                                     <span>No. of Month is <strong>
                                         <span class="pull-right"  id="nm_value">30</span> </strong>
