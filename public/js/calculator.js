@@ -1,32 +1,32 @@
- 
+
         $(document).ready(function(){
             $("#la").bind(
-                "slider:changed", function (event, data) {              
-                    $("#la_value").html(data.value.toFixed(0)); 
+                "slider:changed", function (event, data) {
+                    $("#la_value").html(data.value.toFixed(0));
                     calculateEMI();
                 }
             );
 
             $("#nm").bind(
-                "slider:changed", function (event, data) {              
-                    $("#nm_value").html(data.value.toFixed(0)); 
+                "slider:changed", function (event, data) {
+                    $("#nm_value").html(data.value.toFixed(0));
                     calculateEMI();
                 }
             );
-            
+
             $("#roi").bind(
-                "slider:changed", function (event, data) {              
-                    $("#roi_value").html(data.value.toFixed(2)); 
+                "slider:changed", function (event, data) {
+                    $("#roi_value").html(data.value.toFixed(2));
                     calculateEMI();
                 }
             );
-            
+
             function calculateEMI(){
                 var loanAmount = $("#la_value").html();
                 var numberOfMonths = $("#nm_value").html();
                 var rateOfInterest = $("#roi_value").html();
                 var monthlyInterestRatio = (rateOfInterest/100)/12;
-                
+
                 var top = Math.pow((1+monthlyInterestRatio),numberOfMonths);
                 var bottom = top -1;
                 var sp = top / bottom;
@@ -36,12 +36,12 @@
                 var int_pge =  (interest / full) * 100;
                 $("#tbl_int_pge").html(int_pge.toFixed(2)+" %");
                 //$("#tbl_loan_pge").html((100-int_pge.toFixed(2))+" %");
-                
+
                 var emi_str = emi.toFixed(2).toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 var loanAmount_str = loanAmount.toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 var full_str = full.toFixed(2).toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 var int_str = interest.toFixed(2).toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                
+
                 $("#emi").html(emi_str);
                 $("#tbl_emi").html(emi_str);
                 $("#tbl_la").html(loanAmount_str);
@@ -61,7 +61,7 @@
                 }
                     detailDesc += "</tbody>";
                     $("#loantable").html(detailDesc);
-                 
+
             }
             calculateEMI();
 

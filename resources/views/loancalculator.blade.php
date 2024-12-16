@@ -43,12 +43,12 @@
                                     <span>Loan Amount is </span>
                                     <strong>
                                         <span class="pull-right" id="la_value">500</span></strong>
-                                    <input type="text" data-slider="true" value="500" data-slider-range="100000,5000000" data-slider-step="10000" data-slider-snap="true" id="la">
+                                    <input type="text" data-slider="true" value="500" data-slider-range="500,5000" data-slider-step="100" data-slider-snap="true" id="la">
                                     <hr>
                                     <span>No. of Month is <strong>
-                                        <span class="pull-right"  id="nm_value">30</span> </strong>
+                                        <span class="pull-right"  id="nm_value">1</span> </strong>
                                     </span>
-                                    <input type="text" data-slider="true" value="30" data-slider-range="120,360" data-slider-step="1" data-slider-snap="true" id="nm">
+                                    <input type="text" data-slider="true" value="1" data-slider-range="1,36" data-slider-step="1" data-slider-snap="true" id="nm">
                                     <hr>
                                     <span>Rate of Interest [ROI] is <strong><span class="pull-right"  id="roi_value">10</span>
                                     </strong>
