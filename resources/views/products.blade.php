@@ -81,13 +81,15 @@
                                             <p>i-Finance will advance Personal Loans to the customer with loan repayments facilitated through through Direct Salary Deduction arrangements. </p>
                                             <p>For those working in the Public Sector, our Deduction Code under the Alesco Payroll system is DJAYF. Therefore, all public servants are eligible for a Personal Loan with iI-Finance. </p>
                                             <a href="/contact-us" class="btn btn-default">Contact Us Now</a>
+                                            <a href="loan-calculator" class="btn btn-warning">Loan Calculator</a>
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="features">
                                             <h1>Business / SME Loan</h1>
                                             <p>Businesses often need funding for various purposes, such as covering daily operational costs (working capital) or making significant investments in assets like equipment or real estate (asset purchase). Securing financing at a low interest rate is beneficial as it reduces borrowing costs, allowing businesses to allocate more resources towards growth and development.</p>
                                             <p>i-Finance offers Business Loans to Small Medium Enterprise and Business houses.
                                              SME/Business Loans start at K500.00 and the term of loan is subject to the assessment of the business’s debt servicing capacity. You can look at our Loan Calculator to check eligibility and choose an amount that suits your repayment. Our interest rates are competitive and reasonable. </p>
-                                            <a href="/contact-us" class="btn btn-default">Contact Us Now</a>
+                                             <a href="loan-eligibility" class="btn btn-default">Check Eligibility</a>
+                                             <a href="/contact-us" class="btn btn-warning">Contact Us Now</a>
 
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="eligibility">
@@ -96,7 +98,7 @@
                                             <p>i-Finance offers refinancing to existing customers as well as to the new customers.</p>
                                             <p>Loan refinancing starts from K500.00 and repayment terms can go up to 78 fortnights (3years). You can look at our Loan Calculator to check eligibility and choose an amount that suits your repayment. Our interest rates are competitive and reasonable.</p>
                                             <a href="loan-eligibility" class="btn btn-default">Check Eligibility</a>
-                                            <a href="/contact-us" class="btn btn-primary">Contact Us Now</a>
+                                            <a href="/contact-us" class="btn btn-warning">Contact Us Now</a>
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="documentation">
                                             <h1>Documentation</h1>
