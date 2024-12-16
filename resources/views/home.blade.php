@@ -72,19 +72,19 @@
                                 <a href="/products"> <div class="icon mb20"><i class="icon-money icon-default icon-2x"></i></div></a>
                             </div>
                             <div class="service-content">
-                                <h2 class="service-title"><a href="#" class="title">Personal Loan</a></h2>
+                                <h2 class="service-title"><a href="/products" class="title">Personal Loan</a></h2>
                             </div>
                             <div class="service-rate-block">
                                 <h3 class="product-rate">11.49%</h3>
                                 <p class="rate-text">Rate of interest: </p>
                             </div>
-                            <a href="/contact-us" class="btn btn-secondary btn-block">Apply now</a>
+                            <a href="/products" class="btn btn-secondary btn-block">Apply now</a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-12">
                         <div class="service-block-v3">
                             <div class="icon mb30">
-                                <a href="#"> <div class="icon mb20"><i class="icon-settings-6 icon-default icon-2x"></i></div></a>
+                                <a href="/products"> <div class="icon mb20"><i class="icon-settings-6 icon-default icon-2x"></i></div></a>
                             </div>
                             <div class="service-content">
                                 <h2 class="service-title"><a href="#" class="title">Business Loan</a></h2>
@@ -93,7 +93,7 @@
                                 <h3 class="product-rate">8.35%</h3>
                                 <p class="rate-text">Rate of interest: </p>
                             </div>
-                            <a href="/contact-us" class="btn btn-secondary btn-block">Apply now</a>
+                            <a href="/products" class="btn btn-secondary btn-block">Apply now</a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-12">

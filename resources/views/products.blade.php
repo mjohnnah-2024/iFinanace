@@ -19,21 +19,11 @@
                             <div class="col-xl-8 col-lg-8 col-md-3 col-sm-12 col-12">
                                 <div class="row">
                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                        <div class="btn-action"> <a href="/contact-us" class="btn btn-default">How To Apply</a> </div>
+                                        <div class="btn-action"> <a href="/contact-us" class="btn btn-default">Contact Us Now</a> </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="sub-nav" id="sub-nav">
-                          <ul class="nav nav-justified">
-                            <li class="nav-item">
-                                <a href="contact-us.html" class="nav-link">Give me call back</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">Emi Caculator</a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -53,15 +43,15 @@
                                         <ul class="nav nav-tabs flex-column" id="myTab" role="tablist">
 
                                                 <li class="nav-item">
-                                                    <a class="nav-link active" id="tab-1" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true"><i class="fa fa-search-plus"></i>Personal Loan</a>
+                                                    <a class="nav-link active" id="tab-1" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true"><i class="icon-money icon-default icon-1x"></i>Personal Loan</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a class="nav-link" id="tab-2" data-toggle="tab" href="#features" role="tab" aria-controls="features" aria-selected="false"><i class="fa fa-star"></i>Business /SME Loan</a>
+                                                    <a class="nav-link" id="tab-2" data-toggle="tab" href="#features" role="tab" aria-controls="features" aria-selected="false"><i class="icon-settings-6 icon-default icon-1x"></i>Business /SME Loan</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a class="nav-link" id="tab-3" data-toggle="tab" href="#eligibility" role="tab" aria-controls="eligibility" aria-selected="false"><i class="fa fa-check-square-o"></i>Loan Refinancing</a>
+                                                    <a class="nav-link" id="tab-3" data-toggle="tab" href="#eligibility" role="tab" aria-controls="eligibility" aria-selected="false"><i class="icon-clock icon-default icon-1x"></i>Loan Refinancing</a>
                                                 </li>
-                                                <li class="nav-item">
+                                              <!--  <li class="nav-item">
                                                     <a class="nav-link" id="tab-4" data-toggle="tab" href="#documentation" role="tab" aria-controls=" documentation" aria-selected="false"><i class="fa fa-file-text-o"></i>Documentation </a>
                                                 </li>
                                                  <li class="nav-item">
@@ -75,7 +65,7 @@
                                                 </li>
                                                  <li class="nav-item">
                                                     <a class="nav-link" id="tab-4" data-toggle="tab" href="#getaquote" role="tab" aria-controls="getaquote" aria-selected="false"><i class="fa fa-coffee"></i>  Get a Quote</a>
-                                                </li>
+                                                </li>--->
                                             </ul>
 
 
@@ -90,14 +80,14 @@
                                             <p>At i-Finance, we take care of  financial needs of our customers and their families and apply a Debt Service Ratio of 30% of the customer’s net pay, which means thirty percent of the pay to cover the loan commitments while the other seventy percent is reserved for family upkeep. </p>
                                             <p>i-Finance will advance Personal Loans to the customer with loan repayments facilitated through through Direct Salary Deduction arrangements. </p>
                                             <p>For those working in the Public Sector, our Deduction Code under the Alesco Payroll system is DJAYF. Therefore, all public servants are eligible for a Personal Loan with iI-Finance. </p>
-                                            <a href="#" class="btn btn-default">Apply Now</a>
+                                            <a href="/contact-us" class="btn btn-default">Contact Us Now</a>
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="features">
                                             <h1>Business / SME Loan</h1>
                                             <p class="lead mb60">Businesses often need funding for various purposes, such as covering daily operational costs (working capital) or making significant investments in assets like equipment or real estate (asset purchase). Securing financing at a low interest rate is beneficial as it reduces borrowing costs, allowing businesses to allocate more resources towards growth and development.</p>
                                             <p>i-Finance offers Business Loans to Small Medium Enterprise and Business houses.
                                              SME/Business Loans start at K500.00 and the term of loan is subject to the assessment of the business’s debt servicing capacity. You can look at our Loan Calculator to check eligibility and choose an amount that suits your repayment. Our interest rates are competitive and reasonable. </p>
-                                            <a href="/contact-us" class="btn btn-default">Apply Now</a>
+                                            <a href="/contact-us" class="btn btn-default">Contact Us Now</a>
 
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="eligibility">
@@ -106,7 +96,7 @@
                                             <p>i-Finance offers refinancing to existing customers as well as to the new customers.</p>
                                             <p>Loan refinancing starts from K500.00 and repayment terms can go up to 78 fortnights (3years). You can look at our Loan Calculator to check eligibility and choose an amount that suits your repayment. Our interest rates are competitive and reasonable.</p>
                                             <a href="loan-eligibility" class="btn btn-default">Check Eligibility</a>
-                                            <a href="#" class="btn btn-primary">Apply For Loan</a>
+                                            <a href="/contact-us" class="btn btn-primary">Contact Us Now</a>
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="documentation">
                                             <h1>Documentation</h1>
