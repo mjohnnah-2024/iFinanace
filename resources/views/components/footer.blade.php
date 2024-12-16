@@ -55,10 +55,10 @@
                     <div class="widget-footer mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/products">Services</a></li>
+                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/contact-us">Contact Us</a></li>
                         </ul>
                     </div>
                     <!-- /.widget footer -->
@@ -69,8 +69,8 @@
                         <ul class="listnone">
                             <li><a href="#">Forms</a></li>
                             <li><a href="#">Apply Now</a></li>
-                            <li><a href="#">Loan Calculator</a></li>
-                            <li><a href="#">Loan Eligibilty Calculator</a></li>
+                            <li><a href="/loan-calculator">Loan Calculator</a></li>
+                            <li><a href="/loan-eligibility">Loan Eligibilty Calculator</a></li>
 
                         </ul>
                     </div>
@@ -80,7 +80,7 @@
                     <div class="widget-social mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="#"><i class="fa fa-facebook"></i>Facebook</a></li>
+                            <li><a href="https://www.linkedin.com/company/i-finance-png/"><i class="fa fa-facebook"></i>Facebook</a></li>
                             <li><a href="#"><i class="fa fa-google-plus"></i>Google Plus</a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i>Linked In</a></li>
