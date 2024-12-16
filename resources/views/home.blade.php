@@ -11,7 +11,7 @@
                             <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">The low rate you need for the need you want! Call
                                 <br>
                                 <strong class="text-highlight">(+675) 311-2200 or 311-2202</strong></p>
-                            <a href="/" class="btn btn-default">Loan Products</a> </div>
+                            <a href="/products" class="btn btn-default">Loan Products</a> </div>
                         <!-- /.slider-captions -->
                     </div>
                 </div>
@@ -26,7 +26,7 @@
                                 <!-- slider-captions -->
                                 <h1 class="slider-title">Business SME Loan<strong class="text-highlight"> with exellent rates</strong> </h1>
                                 <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide better and more afforable terms to refinance your exisiting loans.</p>
-                                <a href="/loan-eligibility" class="btn btn-default">Check Eligiblity</a> </div>
+                                <a href="/contact-us" class="btn btn-default">Contact Us</a> </div>
                             <!-- /.slider-captions -->
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                                 <h1 class="slider-title">Loan Refinancing <strong class="text-highlight"> with Greate Rates</strong></h1>
                                 <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">We provide an excellent service for all types of loans in
                                     <br> ahmedabad and offer service, advice and direction.</p>
-                                <a href="#" class="btn btn-default ">View Products</a> </div>
+                                <a href="/loan-eligibility" class="btn btn-default ">Check Eligiblity</a> </div>
                             <!-- /.slider-captions -->
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                                 <h3 class="product-rate">11.49%</h3>
                                 <p class="rate-text">Rate of interest: </p>
                             </div>
-                            <a href="#" class="btn btn-secondary btn-block">Apply now</a>
+                            <a href="/contact-us" class="btn btn-secondary btn-block">Apply now</a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-12">
@@ -93,22 +93,22 @@
                                 <h3 class="product-rate">8.35%</h3>
                                 <p class="rate-text">Rate of interest: </p>
                             </div>
-                            <a href="#" class="btn btn-secondary btn-block">Apply now</a>
+                            <a href="/contact-us" class="btn btn-secondary btn-block">Apply now</a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-12">
                         <div class="service-block-v3">
                             <div class="icon mb30">
-                                <a href="#"> <div class="icon mb20"><i class="icon-clock icon-default icon-2x"></i></div></a>
+                                <a href="/products"> <div class="icon mb20"><i class="icon-clock icon-default icon-2x"></i></div></a>
                             </div>
                             <div class="service-content">
-                                <h2 class="service-title"><a href="#" class="title">Refinancing</a></h2>
+                                <h2 class="service-title"><a href="/products" class="title">Refinancing</a></h2>
                             </div>
                             <div class="service-rate-block">
                                 <h3 class="product-rate">12.75%</h3>
                                 <p class="rate-text">Rate of interest: </p>
                             </div>
-                            <a href="#" class="btn btn-secondary btn-block">Apply now</a></div>
+                            <a href="/products" class="btn btn-secondary btn-block">Apply now</a></div>
                     </div>
 
                 </div>
