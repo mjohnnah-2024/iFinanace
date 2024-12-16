@@ -41,8 +41,7 @@
                                 <div class="mb60  section-title text-center  ">
                                     <!-- section title start-->
                                     <h1>Get In Touch</h1>
-                                    <p>We would love to hear from you! Contact us today to learn more about our services or to discuss your financial needs. Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances.
-                                         You can reach us by phone, email, or by visiting us. Let us help you achieve your financial goals today!</p>
+                                    <p>We would love to hear from you! Contact us today to learn more about our services or to discuss your financial needs. Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances.</p>
                                 </div>
                             </div>
 
@@ -93,7 +92,7 @@
                                 <div class="mb60  section-title">
                                     <!-- section title start-->
                                     <h1>We are here to help you </h1>
-                                    <p class="lead">Various versions have evolved over the years sometimes by accident sometimes on purpose injected humour and the like.</p>
+                                    <p class="lead">Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances. You can reach us by phone, email, or by visiting us. Let us help you achieve your financial goals today!</p>
                                 </div>
                                 <!-- /.section title start-->
                             </div>

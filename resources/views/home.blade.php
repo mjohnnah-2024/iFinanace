@@ -58,7 +58,7 @@
                 <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title start-->
-                        <h1>Loan Products We Offers</h1>
+                        <h1>Loan Products We Offer</h1>
                         <p>We will match you with a loan program that meet your financial need. In short term liquidity, by striving to make funds available to them <strong>within 24 hours of application.</strong></p>
                     </div>
                     <!-- /.section title start-->
@@ -220,7 +220,7 @@
                     <!-- section title start-->
                     <h1 class="text-white">Let’s Discuss Your Options</h1>
                     <p class="text-white">Maecenas vitae quam sued lainia interdum aliquam Morbi et faucibus dutesque in vulpate lacuonece dolor mauris solliciudin accun risusde.</p>
-                    <a href="#" class="btn btn-primary">Apply Today</a>
+                    <a href="/contact-us" class="btn btn-primary">Contact Us Now</a>
                 </div>
                 <!-- /.section title start-->
             </div>
