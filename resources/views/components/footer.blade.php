@@ -67,8 +67,8 @@
                     <div class="widget-footer mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="#">Forms</a></li>
-                            <li><a href="#">Apply Now</a></li>
+                            <li><a href="/forms">Forms</a></li>
+                            <li><a href="/contact-us">Apply Now</a></li>
                             <li><a href="/loan-calculator">Loan Calculator</a></li>
                             <li><a href="/loan-eligibility">Loan Eligibilty Calculator</a></li>
 

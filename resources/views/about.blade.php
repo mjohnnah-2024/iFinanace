@@ -19,7 +19,7 @@
                             <div class="col-xl-8 col-lg-8 col-md-3 col-sm-12 col-12">
                                 <div class="row">
                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                        <div class="btn-action"> <a href="#" class="btn btn-default">Contact Us</a> </div>
+                                        <div class="btn-action"> <a href="/contact-us" class="btn btn-default">Contact Us</a> </div>
                                     </div>
                                 </div>
                             </div>
