@@ -56,10 +56,10 @@
                                                     <a class="nav-link active" id="tab-1" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true"><i class="fa fa-search-plus"></i>Personal Loan</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a class="nav-link" id="tab-2" data-toggle="tab" href="#features" role="tab" aria-controls="features" aria-selected="false"><i class="fa fa-star"></i>Features</a>
+                                                    <a class="nav-link" id="tab-2" data-toggle="tab" href="#features" role="tab" aria-controls="features" aria-selected="false"><i class="fa fa-star"></i>Business /SME Loan</a>
                                                 </li>
                                                 <li class="nav-item">
-                                                    <a class="nav-link" id="tab-3" data-toggle="tab" href="#eligibility" role="tab" aria-controls="eligibility" aria-selected="false"><i class="fa fa-check-square-o"></i>eligibility</a>
+                                                    <a class="nav-link" id="tab-3" data-toggle="tab" href="#eligibility" role="tab" aria-controls="eligibility" aria-selected="false"><i class="fa fa-check-square-o"></i>Loan Refinancing</a>
                                                 </li>
                                                 <li class="nav-item">
                                                     <a class="nav-link" id="tab-4" data-toggle="tab" href="#documentation" role="tab" aria-controls=" documentation" aria-selected="false"><i class="fa fa-file-text-o"></i>Documentation </a>
@@ -84,79 +84,29 @@
                                 <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-12 nopadding">
                                     <div class="tab-content">
                                         <div role="tabpanel" class="tab-pane active" id="overview">
-                                            <h1>About Personal Loan</h1>
-                                            <p class="lead mb60">Personal loan is the obvious choice if you need a finance for <strong>Personal finance, Medical emergency, Wedding purposes, Abroad travel, Holidays, Child education</strong> and for buying consumer durable things.</p>
-                                            <p>Phasellus tellus nunc, sollicitudin quist amet it simple nequeuisque lacus mi tesimly diummy cintenbt mpus nec purus vitae tempor placerat leo.</p>
-                                            <p>Aenean semper massa eu vestibulum feugiat, nm feugiat, nm feugiat, nuls simple dummy content la lum metus at ipsum gravida, at vehicula elit dapibus</p>
-                                            <h3>Personal loan Benefits with borrow</h3>
-                                            <ul class="listnone bullet bullet-check-circle-default">
-                                                <li>Simplified Documentation</li>
-                                                <li>Loan Disbursal in 48 hours*</li>
-                                                <li>Transparent Processing</li>
-                                                <li>Competitive Pricing</li>
-                                            </ul>
-                                            <p>Aenean semper massa eu vestibulum feugiat, nm feugiat, nm feugiat, nuls simple dummy content la lum metus at ipsum gravida, at vehicula elit dapibus</p>
+                                            <h1>Personal Loan</h1>
+                                            <p class="lead mb60">iFinance offer Personal Loans to its customers working in the Public Sector and Private Sector to cover their short-term borrowing needs. </h3>
+                                            <p>iFinance Personal Loans start from K500 and repayment terms can start from 3 fortnights up to a longer term. Our customers can look at our Loan Calculator to check eligibility and choose an amount that suits them. Our interest rates are competitive and reasonable. <p>
+                                            <p>At i-Finance, we take care of  financial needs of our customers and their families and apply a Debt Service Ratio of 30% of the customer’s net pay, which means thirty percent of the pay to cover the loan commitments while the other seventy percent is reserved for family upkeep. </p>
+                                            <p>i-Finance will advance Personal Loans to the customer with loan repayments facilitated through through Direct Salary Deduction arrangements. </p>
+                                            <p>For those working in the Public Sector, our Deduction Code under the Alesco Payroll system is DJAYF. Therefore, all public servants are eligible for a Personal Loan with iI-Finance. </p>
                                             <a href="#" class="btn btn-default">Apply Now</a>
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="features">
-                                            <h1>Features and Benefits of Loan</h1>
-                                            <p class="lead mb60">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                                            <div class="row">
-                                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                                    <div class="feature-icon mb30">
-                                                        <div class="icon mb20"><i class="icon-clock icon-default icon-2x"></i></div>
-                                                        <h3>Faster Loan</h3>
-                                                        <p>For funding medical expenses, hospitalization, surgery, No collateral required. Sed eget accumsan justo. Nullam nisl nisi.</p>
-                                                    </div>
-                                                </div>
-                                                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                                    <div class="feature-icon mb30">
-                                                        <div class="icon mb20"><i class="icon-light-bulb-1 icon-default icon-2x"></i></div>
-                                                        <h3>Choose your amount</h3>
-                                                        <p>All charges are communicated up front in writing along with the loan quotation uisque euismdolor at tincidunt lorem sipusm is simple.</p>
-                                                    </div>
-                                                </div>
-                                                  <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                                    <div class="feature-icon mb30">
-                                                        <div class="icon mb20"><i class="icon-money icon-default icon-2x"></i></div>
-                                                        <h3>Enjoy the best rates</h3>
-                                                        <p>Our loan rates and charges are very attractive lorem ipsums sitamet uerse ipsum. Curabitu lectus mattis vitae. </p>
-                                                    </div>
-                                                </div>
-                                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                                    <div class="feature-icon mb30">
-                                                        <div class="icon mb20"><i class="icon-settings-6 icon-default icon-2x"></i></div>
-                                                        <h3>Decide your tenure</h3>
-                                                        <p>Our loan rates and charges are very attractive lorem ipsums sitamet uerse ipsum.Curabitulectus mattis vitae. </p>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            <h1>Business / SME Loan</h1>
+                                            <p class="lead mb60">Businesses often need funding for various purposes, such as covering daily operational costs (working capital) or making significant investments in assets like equipment or real estate (asset purchase). Securing financing at a low interest rate is beneficial as it reduces borrowing costs, allowing businesses to allocate more resources towards growth and development.</p>
+                                            <p>i-Finance offers refinancing to existing customers as well as to the new customers. </p>
+                                            <p>i-Finance offers Business Loans to Small Medium Enterprise and Business houses.
+                                             SME/Business Loans start at K500.00 and the term of loan is subject to the assessment of the business’s debt servicing capacity. You can look at our Loan Calculator to check eligibility and choose an amount that suits your repayment. Our interest rates are competitive and reasonable. </p>
+                                            <a href="/contact-us" class="btn btn-default">Apply Now</a>
+
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="eligibility">
-                                            <h1>Eligibility Criteria for Loan</h1>
-                                            <p class="lead mb60">Any salaried, self-employed or professional Public and Privat companies, Government sector employees including Public Sector is eligible for a personal loan.</p>
-                                            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                            <div class="row">
-                                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                                    <div class="feature-blurb mb30">
-                                                        <h3>Age</h3>
-                                                        <p>Maximum age of applicant at loan maturity: <strong>60 years</strong></p>
-                                                    </div>
-                                                </div>
-                                                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                                    <div class="feature-blurb mb30">
-                                                        <h3>Income</h3>
-                                                        <p>Minimum Net Monthly Income: <strong>Rs 25,000</strong></p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                                    <div class="feature-blurb mb30">
-                                                        <h3>Credit Rating</h3>
-                                                        <p>Applicant should have the bank specified credit score. </p>
-                                                    </div>
-                                                </div>
-                                            </div><a href="#" class="btn btn-default">Check Eligibility</a>
+                                            <h1>Refinancing Loan</h1>
+                                            <p class="lead mb60">Loan refinancing is where you already have an existing loan and where you require additional funds, it may be practical to refinance with a new loan that consolidates both the existing loans and the new amount you require. This approach allows just having one loan which would be easier to manage than maintaining two or more separate loans.</p>
+                                            <p>i-Finance offers refinancing to existing customers as well as to the new customers.</p>
+                                            <p>Loan refinancing starts from K500.00 and repayment terms can go up to 78 fortnights (3years). You can look at our Loan Calculator to check eligibility and choose an amount that suits your repayment. Our interest rates are competitive and reasonable.</p>
+                                            <a href="loan-eligibility" class="btn btn-default">Check Eligibility</a>
                                             <a href="#" class="btn btn-primary">Apply For Loan</a>
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="documentation">
