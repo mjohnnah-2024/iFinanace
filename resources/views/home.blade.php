@@ -255,7 +255,7 @@
                         <div class="mb40"><i class="icon-phone-call icon-2x icon-default"></i></div>
                         <h2 class="capital-title">Call us at </h2>
                         <h1 class="text-big">3112200 /3112202 </h1>
-                        <p>lnfo@loanadvisor.com</p>
+                        <p>enquiry@ifinancepng.com</p>
                         <a href="/contact-us" class="btn-link">Contact us</a> </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
