@@ -17,4 +17,3 @@
 <script src="js/back-to-top.js" type="text/javascript"></script>
 <script type="text/javascript" src="js/loan-elgiblity.js"></script>
 
-
