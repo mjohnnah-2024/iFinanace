@@ -6,7 +6,7 @@
                     <div class="page-breadcrumb">
                         <ol class="breadcrumb">
                             <li><a href="/">Home</a></li>
-                            <li class="active">Loan Products</li>
+                            <li class="active">Services</li>
                         </ol>
                     </div>
                 </div>
@@ -14,7 +14,7 @@
                     <div class="bg-white pinside30">
                         <div class="row">
                            <div class="col-xl-4 col-lg-4 col-md-9 col-sm-12 col-12">
-                                <h1 class="page-title">Loan Products</h1>
+                                <h1 class="page-title">Lending Services</h1>
                             </div>
                             <div class="col-xl-8 col-lg-8 col-md-3 col-sm-12 col-12">
                                 <div class="row">

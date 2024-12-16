@@ -58,8 +58,8 @@
                 <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title start-->
-                        <h1>Loan Products We Offer</h1>
-                        <p>We will match you with a loan program that meet your financial need. In short term liquidity, by striving to make funds available to them <strong>within 24 hours of application.</strong></p>
+                        <h1>Loan Products & Services We Offer</h1>
+                        <p>The company offers personal and business lending services. It caters to both private and public sector employees, aiming to provide easy access to financial services through innovative solutions and superior service delivery.</p>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -122,7 +122,7 @@
                     <div class="section-title mb60 text-center">
                         <!-- section title start-->
                         <h1>Reasons to choose us</h1>
-                        <p>Nunc iaculis velit a vestibulum cursu estibentum nec ante eu molestie.</p>
+                        <p>iFinance prides itself on its experienced staff, who are dedicated to delivering high-quality service to meet the financial needs of its clients.</p>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -132,8 +132,8 @@
                     <div class="feature feature-icon-style">
                         <div class="feature-icon"> <i class="fa fa-calculator fa-2x"></i></div>
                         <div class="feature-content">
-                            <h3 class="feature-title">EMI Calculator</h3>
-                            <p>Fusce sed erat libasellus id orciquise ctus velit, asimple male suada urna sodales eu.</p>
+                            <h3 class="feature-title">Loan Tools</h3>
+                            <p>We provide loan calculation tools to our clients to make informed financial decisions.</p>
                         </div>
                     </div>
                 </div>
@@ -142,7 +142,7 @@
                         <div class="feature-icon"><i class="fa fa-heart fa-2x"></i></div>
                         <div class="feature-content">
                             <h3 class="feature-title">Customers love us!</h3>
-                            <p>Quisque ut ligula nec est pretium phareest male sunec felis atmetus mattis volutpat invel elit.</p>
+                            <p>We prides ourselves on our experienced staffs, who are dedicated to delivering high-quality service to meet the financial needs of its customers.</p>
                         </div>
                     </div>
                 </div>

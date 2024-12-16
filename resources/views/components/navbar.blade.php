@@ -2,8 +2,8 @@
     <!-- navigation start-->
     <ul>
         <li><a href="/" class="animsition-link">Home</a></li>
-        <li><a href="/about-us" class="animsition-link">About us</a></li>
-        <li><a href="/products" class="animsition-link">Loan Products</a></li>
+        <li><a href="/about-us" class="animsition-link">About</a></li>
+        <li><a href="/products" class="animsition-link">Services</a></li>
         <li><a href="/" class="animsition-link">Tools</a>
             <ul>
                     <li><a href="/loan-calculator" title="Loan Calculator" class="animsition-link">Loan Calculator</a></li>
