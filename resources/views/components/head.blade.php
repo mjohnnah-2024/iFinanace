@@ -6,6 +6,7 @@
     <meta name="description" content="iFinance - is the loan companyWebsite.">
     <meta name="keywords" content="Financial Companny Website, Loan Products, Personal Loan, Business SME Loan, Refinancing">
     <title>iFinance - A Loan Company Website</title>
+    <link href="images/logo.png" rel="icon">
    <!-- Bootstrap -->
    <link href="css/bootstrap.min.css" rel="stylesheet">
    <link href="css/style.css" rel="stylesheet">
