@@ -94,7 +94,7 @@
                                 <div class="form-group">
                                      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <button type="button" class="btn btn-default" onclick="eligiable()">Check Eligibility</button>
-                                        <button type="reset" class="btn btn-primary">Reset All</button>
+                                        <button type="reset" class="btn btn-warning">Reset All</button>
                                     </div>
                                 </div>
                             </div>

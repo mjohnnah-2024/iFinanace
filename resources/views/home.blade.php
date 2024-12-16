@@ -8,7 +8,7 @@
                         <div class="slider-captions">
                             <!-- slider-captions -->
                             <h1 class="slider-title">Personal Loan to Suit Your Needs. </h1>
-                            <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">The low rate you need for the need you want! Call
+                            <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">We offer loans to both public and private sector to cover their short-term borrowing needs. Call us on
                                 <br>
                                 <strong class="text-highlight">(+675) 311-2200 or 311-2202</strong></p>
                             <a href="/products" class="btn btn-default">Loan Products</a> </div>
@@ -24,8 +24,8 @@
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                             <div class="slider-captions">
                                 <!-- slider-captions -->
-                                <h1 class="slider-title">Business SME Loan<strong class="text-highlight"> with exellent rates</strong> </h1>
-                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide better and more afforable terms to refinance your exisiting loans.</p>
+                                <h1 class="slider-title">Business Loan<strong class="text-highlight"> with exellent rates</strong> </h1>
+                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide better and more afforable terms to finance your business needs.</p>
                                 <a href="/contact-us" class="btn btn-default">Contact Us</a> </div>
                             <!-- /.slider-captions -->
                         </div>
@@ -40,9 +40,9 @@
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                             <div class="slider-captions">
                                 <!-- slider-captions -->
-                                <h1 class="slider-title">Loan Refinancing <strong class="text-highlight"> with Greate Rates</strong></h1>
-                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">We provide an excellent service for all types of loans in
-                                    <br> ahmedabad and offer service, advice and direction.</p>
+                                <h1 class="slider-title">Loan Refinancing <strong class="text-highlight"> with Greate Terms</strong></h1>
+                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">We provide excellent rates to refinance your existing loans
+                                    <br> with better terms.</p>
                                 <a href="/loan-eligibility" class="btn btn-default ">Check Eligiblity</a> </div>
                             <!-- /.slider-captions -->
                         </div>
@@ -219,8 +219,8 @@
                 <div class="text-center">
                     <!-- section title start-->
                     <h1 class="text-white">Let’s Discuss Your Options</h1>
-                    <p class="text-white">Maecenas vitae quam sued lainia interdum aliquam Morbi et faucibus dutesque in vulpate lacuonece dolor mauris solliciudin accun risusde.</p>
-                    <a href="/contact-us" class="btn btn-primary">Contact Us Now</a>
+                    <p class="text-white">Contact us today to learn more about our services or to discuss your financial needs. Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances.</p>
+                    <a href="/contact-us" class="btn btn-warning">Contact Us Now</a>
                 </div>
                 <!-- /.section title start-->
             </div>
