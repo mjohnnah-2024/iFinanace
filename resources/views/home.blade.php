@@ -40,9 +40,9 @@
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                             <div class="slider-captions">
                                 <!-- slider-captions -->
-                                <h1 class="slider-title">Loan Refinancing <strong class="text-highlight"> with Greate Terms</strong></h1>
+                                <h1 class="slider-title">Loan Refinancing <strong class="text-highlight"> with Better Terms</strong></h1>
                                 <p class="slider-text d-none d-xl-block d-lg-block d-sm-block">We provide excellent rates to refinance your existing loans
-                                    <br> with better terms.</p>
+                                    <br> with better terms and rates.</p>
                                 <a href="/loan-eligibility" class="btn btn-default ">Check Eligiblity</a> </div>
                             <!-- /.slider-captions -->
                         </div>
