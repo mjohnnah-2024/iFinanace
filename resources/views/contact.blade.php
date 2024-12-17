@@ -122,7 +122,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="map" id="googleMap">
+                    <div class="map mb-4" id="googleMap">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2340.206222656931!2d147.18049304433495!3d-9.444004605076028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6902318f3b22d021%3A0x4fa309b5ea264f2f!2sI-FINANCE%20PNG%20LTD.!5e0!3m2!1sen!2spg!4v1734394512659!5m2!1sen!2spg" width="1040" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
