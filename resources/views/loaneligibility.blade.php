@@ -43,7 +43,7 @@
 
                                 <div class="form-group">
                                      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                        <label for="input" class="control-label">Home Loan Required:</label>
+                                        <label for="input" class="control-label">Loan Amount Required:</label>
                                         <div class="input-group">
                                             <div class="input-group-prepend">
                                             <span class="input-group-text">K</span>

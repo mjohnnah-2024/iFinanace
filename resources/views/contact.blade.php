@@ -92,7 +92,7 @@
                                 <div class="mb60  section-title">
                                     <!-- section title start-->
                                     <h1>We are here to help you </h1>
-                                    <p class="lead">Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances. You can reach us by phone, email, or by visiting us. Let us help you achieve your financial goals today!</p>
+                                    <p>Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances. You can reach us by phone, email, or by visiting us. Let us help you achieve your financial goals today!</p>
                                 </div>
                                 <!-- /.section title start-->
                             </div>
@@ -101,8 +101,8 @@
                            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                                 <div class="bg-boxshadow pinside60 outline text-center mb30">
                                     <div class="mb40"><i class="icon-briefcase icon-2x icon-default"></i></div>
-                                    <h2 class="capital-title">Office Address</h2>
-                                    <p>Sec 45, Lot 12 & 13
+                                    <h2 class="capital-title">Office Location</h2>
+                                    <p>Mutual Rumana Building, Sec 45, Lot 12 & 13
                                         <br> Waigani Drive, Port Moresby, NCD</p>
                                 </div>
                             </div>
@@ -122,7 +122,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="map" id="googleMap"></div>
+                    <div class="map" id="googleMap">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2340.206222656931!2d147.18049304433495!3d-9.444004605076028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6902318f3b22d021%3A0x4fa309b5ea264f2f!2sI-FINANCE%20PNG%20LTD.!5e0!3m2!1sen!2spg!4v1734394512659!5m2!1sen!2spg" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
                 </div>
             </div>
         </div>

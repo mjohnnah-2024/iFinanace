@@ -40,17 +40,17 @@
                         <div class="row">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="bg-light pinside40 outline">
-                                    <span>Loan Amount is </span>
+                                    <span>Loan Amount </span>
                                     <strong>
                                         <span class="pull-right" id="la_value">500</span></strong>
                                     <input type="text" data-slider="true" value="500" data-slider-range="500,5000" data-slider-step="100" data-slider-snap="true" id="la">
                                     <hr>
-                                    <span>No. of Month is <strong>
+                                    <span>No. of Forthnight <strong>
                                         <span class="pull-right"  id="nm_value">1</span> </strong>
                                     </span>
                                     <input type="text" data-slider="true" value="1" data-slider-range="1,36" data-slider-step="1" data-slider-snap="true" id="nm">
                                     <hr>
-                                    <span>Rate of Interest [ROI] is <strong><span class="pull-right"  id="roi_value">10</span>
+                                    <span>Interest Rate <strong><span class="pull-right"  id="roi_value">10</span>
                                     </strong>
                                     </span>
                                     <input type="text" data-slider="true" value="10.2" data-slider-range="8,16" data-slider-step=".05" data-slider-snap="true" id="roi">
@@ -60,7 +60,7 @@
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="bg-light pinside30 outline">
-                                            Monthly EMI
+                                            Forthnighly Payment
                                             <h2 id='emi' class="pull-right"></h2>
                                         </div>
                                     </div>
