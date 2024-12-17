@@ -23,7 +23,7 @@
                 <p class="mail-text text-black">Welcome to iFinance Website</p>
             </div>
             <div class="col-xl-8 col-lg-7 col-md-12 col-sm-12 col-12 text-right">
-                <div class="top-nav"> <span class="top-text"><a href="/contact-us" class="text-black">Our Location</a> </span> <span class="top-text"><a href="/" class="text-black">+675-311-2200</a></span> <span class="top-text"><a href="/loan-eligibility" class="text-black">Loan Elibility Check</a></span> </div>
+                <div class="top-nav"> <span class="top-text"><a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9" class="text-black">Find Our Location</a> </span> <span class="top-text"><a href="/" class="text-black">+675-311-2200</a></span> <span class="top-text"><a href="/loan-eligibility" class="text-black">Loan Elibility Check</a></span> </div>
             </div>
         </div>
     </div>
@@ -35,7 +35,7 @@
             <div class="col-xl-2 col-lg-2 col-md-12 col-sm-6 col-6">
                 <!-- logo -->
                 <div class="logo">
-                    <a href="/"><img src="images/logo.png" alt="iFinance - You GoTo finanace company" style="height: 5.5rem"></a>
+                    <a href="/"><img src="images/logo.png" alt="iFinance - Your go to finanace company" style="height: 5.5rem"></a>
                 </div>
             </div>
             <!-- logo -->

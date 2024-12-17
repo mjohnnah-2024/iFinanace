@@ -183,7 +183,7 @@
                         <h2 class="capital-title">Contact Us </h2>
                         <h1 class="text-big">3112200 /3112202 </h1>
                         <p>enquiry@ifinancepng.com</p>
-                        <a href="/contact-us" class="btn-link">Need More Informatin</a> </div>
+                        <a href="/contact-us" class="btn-link">Need More Information</a> </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
@@ -191,7 +191,7 @@
                         <h2 class="capital-title">Visit Us</h2>
                         <p>Mutual Rumana Building, Sec 45, Lot 12 & 13
                             Waigani Drive, Port Moresby, NCD.</p>
-                        <a href="/contact-us" class="btn-link">Find Our Location</a> </div>
+                        <a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9" class="btn-link">Find Our Location</a> </div>
                 </div>
             </div>
         </div>
