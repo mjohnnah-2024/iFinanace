@@ -107,7 +107,7 @@
                                     <div class="form-group">
                                         <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-text" name="field13">
                                         </output>
-                                        <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-amount" name="field11"></output>
+                                        <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-amount text-orange-400" name="field11"></output>
                                     </div>
                                     <div class="form-group">
                                         <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-text" name="field12"></output>

@@ -1,4 +1,4 @@
-<div class="footer section-space100 bg-warning">
+<div class="footer section-space100">
         <!-- footer -->
         <div class="container ">
             <div class="row">
@@ -97,7 +97,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                    <p>Degined by <a href="https://www.nextgenpng.net" target="_blank">Nextgen Technology</a></p>
+                    <p>&#169; i-Finance PNG LTD  | Degined by <a href="https://www.nextgenpng.net" target="_blank">Nextgen Technology</a></p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
                     <p>Terms of use | Privacy Policy</p>
