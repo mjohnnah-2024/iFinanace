@@ -102,15 +102,17 @@
                                 <div class="bg-boxshadow pinside60 outline text-center mb30">
                                     <div class="mb40"><i class="icon-briefcase icon-2x icon-default"></i></div>
                                     <h2 class="capital-title">Office Location</h2>
-                                    <p>Mutual Rumana Building, Sec 45, Lot 12 & 13
-                                        <br> Waigani Drive, Port Moresby, NCD</p>
+                                    <p>Mutual Rumana Building, <br> Sec 45, Lot 12 & 13
+                                        <br> Waigani Drive, <br> Port Moresby, NCD</p>
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                                 <div class="bg-boxshadow pinside60 outline text-center mb30">
                                     <div class="mb40"><i class="icon-phone-call icon-2x icon-default"></i></div>
                                     <h2 class="capital-title">Call us at </h2>
-                                    <h1 class="text-big">3112200 / 3112202 / 77163656 </h1>
+                                    <p>Phone: 3112200
+                                    <br>Phone: 3112202
+                                    <br>Mobile: 77163656</p>
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">

@@ -1,3 +1,4 @@
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -5,7 +6,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="i-git Finance - is the loan finance company.">
     <meta name="keywords" content="Financial Companny Website, Loan Products, Personal Loan, Business SME Loan, Refinancing">
-    <title>i-Finance</title>
+    <title></title>
     <link href="images/logo.png" rel="icon">
    <!-- Bootstrap -->
    <link href="css/bootstrap.min.css" rel="stylesheet">

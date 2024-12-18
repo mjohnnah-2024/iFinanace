@@ -14,17 +14,19 @@
                 }
             );
 
-            $("#roi").bind(
+          /*  $("#roi").bind(
                 "slider:changed", function (event, data) {
                     $("#roi_value").html(data.value.toFixed(2));
                     calculateEMI();
                 }
             );
+            */
 
             function calculateEMI(){
                 var loanAmount = $("#la_value").html();
                 var numberOfMonths = $("#nm_value").html();
-                var rateOfInterest = $("#roi_value").html();
+                //var rateOfInterest = $("#roi_value").html();
+                var rateOfInterest = 90.89;
                 var monthlyInterestRatio = (rateOfInterest/100)/12;
 
                 var top = Math.pow((1+monthlyInterestRatio),numberOfMonths);
@@ -36,8 +38,8 @@
                 var int_pge =  (interest / full) * 100;
                 $("#tbl_int_pge").html(int_pge.toFixed(2)+" %");
                 //$("#tbl_loan_pge").html((100-int_pge.toFixed(2))+" %");
-
-                var emi_str = emi.toFixed(2).toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                var rxi = Math.round(emi);
+                var emi_str = rxi.toFixed(2).toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 var loanAmount_str = loanAmount.toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 var full_str = full.toFixed(2).toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 var int_str = interest.toFixed(2).toString().replace(/,/g, "").replace(/\B(?=(\d{3})+(?!\d))/g, ",");

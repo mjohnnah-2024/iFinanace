@@ -351,14 +351,14 @@ display: block; background: #dddddd; content: '';}*/
 #slider { }
 .slider { position: relative; }
 .slider-img img { position: relative; z-index: -1; width: 100%; }
-.slider-img { background: -moz-linear-gradient(top, rgba(16, 75, 149, 0.8) 0%, rgba(16, 75, 149, 0.8) 100%); background: -webkit-linear-gradient(top, rgba(16, 75, 149, 0.8) 0%, rgba(16, 75, 149, 0.8) 100%); background: linear-gradient(to bottom, rgba(16, 75, 149, 0.8) 0%, rgba(16, 75, 149, 0.8) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc1b2429', endColorstr='#cc1b2429', GradientType=0); position: relative; }
+.slider-img { background: -moz-linear-gradient(top, rgba(241, 228, 42, 0.8) 0%, rgba(181, 219, 42, 0.8) 100%); background: -webkit-linear-gradient(top, rgba(206, 188, 29, 0.8) 0%, rgba(16, 75, 149, 0.8) 100%); background: linear-gradient(to bottom, rgba(16, 75, 149, 0.8) 0%, rgba(16, 75, 149, 0.8) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc1b2429', endColorstr='#cc1b2429', GradientType=0); position: relative; }
 .slider-captions { position: absolute; bottom: 200px; }
 .slider-title { color: #fff; font-size: 52px; font-weight: 700; line-height: 62px; }
 .slider-text { color: #fff; }
 .slider .owl-prev { position: absolute; left: 0px; top: 40%; left: 20px; }
 .slider .owl-next { position: absolute; right: 0px; top: 40%; right: 20px; }
 #slider .owl-next, #slider .owl-prev { background-color: transparent !important; border: 2px solid #fff; color: #fff; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
-#slider .owl-next:hover, #slider .owl-prev:hover { background-color: #fff !important; border: 2px solid #fff; color: #15549a; }
+#slider .owl-next:hover, #slider .owl-prev:hover { background-color: #fff !important; border: 2px solid #fff; color: #e6cd3f; }
 #slider .owl-pagination { margin: 0px; bottom: 40px; position: relative; }
 #slider .owl-page span { border-radius: 2px; width: 98%; height: 1px; background-color: #fff; margin: 0px; }
 #slider .owl-page { width: 5% }

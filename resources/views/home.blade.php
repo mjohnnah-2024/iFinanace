@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout title="Home">
     <div class="slider" id="slider">
         <!-- slider -->
         <div class="slider-img"><img src="images/slider-1.jpg" alt="iFinance - Loan Company Website" class="">
@@ -147,6 +147,7 @@
                     <h1 class="text-white">Let’s Discuss Your Needs</h1>
                     <p class="text-white">Contact us today to learn more about our services or to discuss your financial needs. Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances.</p>
                     <a href="/contact-us" class="btn btn-warning">Contact Us Now</a>
+                    <a href="/products" class="btn btn-success">Read More On Our Loan Products</a>
                 </div>
                 <!-- /.section title start-->
             </div>
@@ -173,16 +174,24 @@
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"><i class="icon-calendar-3 icon-2x icon-default"></i></div>
                         <h2 class="capital-title">Loan Application Forms</h2>
-                        <p>Download the loan forms to apply for your loan now.</p>
-                        <a href="/forms" class="btn-link">Get The Loan Application Forms</a>
+                        <p>Download the loan forms with more detailed information to apply for your loan now.</p>
+                        <ul class="listnone bullet list-pdf-file">
+                            <li><a href="{{ asset('forms/Personal_Loans.pdf') }}"> Personal Loan Application Form</a></li>
+                            <li><a href="{{ asset('forms/Business_Loans.pdf') }}"> Business Loan Application Form</a></li>
+                            <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}">Refinance Loan Application Form</a></li>
+                        </ul>
+                        <a href="/produucts" class="btn-link">Read More Information</a>
                      </div>
                 </div>
                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"><i class="icon-phone-call icon-2x icon-default"></i></div>
                         <h2 class="capital-title">Contact Us </h2>
-                        <h1 class="text-big">3112200 /3112202 </h1>
-                        <p>enquiry@ifinancepng.com</p>
+                        <p>Phone: 3112200</p>
+                        <p>Phone: 3112202</p>
+                        <p>Mobile: 77163656</p>
+
+                        <p>Email: enquiry@ifinancepng.com</p>
                         <a href="/contact-us" class="btn-link">Need More Information</a> </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
