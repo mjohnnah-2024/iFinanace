@@ -110,7 +110,7 @@
                     <div class="bg-white pinside40 number-block mb30">
                         <div class="pink-circle circle"><span class="number">1</span></div>
                         <h3>Complete the form</h3>
-                        <p>Sed ac turpu nisl cimcursus aeget nuusce vhicula sapien nuncsit amet finibusas.</p>
+                        <p>Download and complete the loan application form. The form should contain all necessary information.</p>
                     </div>
                 </div>
                 <!-- /.process -->
@@ -119,7 +119,7 @@
                     <div class="bg-white pinside40 number-block mb30">
                         <div class="pink-circle circle"><span class="number">2</span></div>
                         <h3>Get Approval</h3>
-                        <p>Nullam suscipielit a impediet comodo elite xfiibus mauris selaoreet jaliquam.</p>
+                        <p>Get your loan approved by submitting your completed loan application form togather with the required documenations.</p>
                     </div>
                 </div>
                 <!-- /.process -->
@@ -128,7 +128,7 @@
                     <div class="bg-white pinside40 number-block mb30">
                         <div class="pink-circle circle"><span class="number">3</span></div>
                         <h3>Secure Your Funds</h3>
-                        <p>Donec sagittis massa nulla faucibus pretium donecute ligula sitamet lentum.</p>
+                        <p>You have acces to your funds to finance your personal, business or refinancing needs.</p>
                     </div>
                 </div>
                 <!-- /.process -->
@@ -147,7 +147,7 @@
                     <h1 class="text-white">Let’s Discuss Your Needs</h1>
                     <p class="text-white">Contact us today to learn more about our services or to discuss your financial needs. Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances.</p>
                     <a href="/contact-us" class="btn btn-warning">Contact Us Now</a>
-                    <a href="/products" class="btn btn-success">Read More On Our Loan Products</a>
+                    <a href="/products" class="btn btn-dark">Read More On Our Loan Products</a>
                 </div>
                 <!-- /.section title start-->
             </div>
