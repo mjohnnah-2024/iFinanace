@@ -25,7 +25,7 @@
                             <div class="slider-captions">
                                 <!-- slider-captions -->
                                 <h1 class="slider-title">Business Loan<strong class="text-highlight"> with excellent terms</strong> </h1>
-                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide better and more afforable terms to finance your business needs.</p>
+                                <p class="slider-text d-none d-xl-block d-lg-block d-sm-block"> We provide better and more afforable terms to finance your business requirements.</p>
                                 <a href="/contact-us" class="btn btn-default">Contact Us</a> </div>
                             <!-- /.slider-captions -->
                         </div>
