@@ -69,7 +69,7 @@
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"><i class="icon-money icon-default icon-2x"></i></div>
                         <h2 class="capital-title">Personal Loan</h2>
-                        <p>Funds When You Need Them.</p>
+                        <p>Funds When You Need To Finance Your Perosonal Needs.</p>
                         <a href="/products" class="btn-link">Read More</a>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"><i class="icon-settings-6 icon-default icon-2x"></i></div>
                         <h2 class="capital-title">Business Loan </h2>
-                        <p>Flexible Financing for Your Business Needs.</p>
+                        <p>Flexible Financing for Your Business Requirements.</p>
                         <a href="/products" class="btn-link">Read More</a>
                      </div>
                 </div>
@@ -85,7 +85,7 @@
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"> <i class="icon-clock icon-default icon-2x"></i></div>
                         <h2 class="capital-title">Refinancing</h2>
-                        <p>A Simpler Way to Refinance.</p>
+                        <p>A Simpler Way to Refinance Your Exsisting Loans.</p>
                         <a href="/products" class="btn-link">Read More</a>
                      </div>
                 </div>
@@ -177,10 +177,10 @@
                         <p>Download the loan forms with more detailed information to apply for your loan now.</p>
                         <ul class="listnone bullet list-pdf-file">
                             <li><a href="{{ asset('forms/Personal_Loans.pdf') }}"> Personal Loan Application Form</a></li>
-                            <li><a href="{{ asset('forms/Business_Loans.pdf') }}"> Business Loan Application Form</a></li>
-                            <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}">Refinance Loan Application Form</a></li>
+                            <li><a href="{{ asset('forms/Business_Loans.pdf') }}"> Business Loan Application Form</a></li>                            
+                            <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}"> Refinance Loan Application Form</a></li>                            
                         </ul>
-                        <a href="/produucts" class="btn-link">Read More Information</a>
+                        <a href="/products" class="btn-link">Read More Information</a>
                      </div>
                 </div>
                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
@@ -198,8 +198,8 @@
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"> <i class="icon-users icon-2x icon-default"></i></div>
                         <h2 class="capital-title">Visit Us</h2>
-                        <p>Mutual Rumana Building, Sec 45, Lot 12 & 13
-                            Waigani Drive, Port Moresby, NCD.</p>
+                        <p>Mutual Rumana Building, <br> Sec 45, Lot 12 & 13 <br>
+                            Waigani Drive, <br> Port Moresby, NCD.</p>
                         <a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9" class="btn-link">Find Our Location</a> </div>
                 </div>
             </div>

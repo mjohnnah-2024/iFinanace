@@ -36,16 +36,15 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="widget-text mt40">
                         <!-- widget text -->
-                        <p>WORKING HOURS </p>
-                        <p>Monday to Friday: 8am - 5pm </p>
-                        <p>Saturday: 8am - 12pm </p>
+                        <p>WORKING HOURS <br> Monday to Friday: 8am - 5pm | Saturday: 8am - 12pm</p>                        
                         <div class="row">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                                <p class="address-text"><span><i class="icon-placeholder-3 icon-1x"></i> </span>Mutual Rumana Building, Section 405, Lot 12 & 13,
-                                    Port Moresby, NCD </p>
+                                <p class="address-text"><span><i class="icon-placeholder-3 icon-1x"></i> </span>Mutual Rumana Building, <br>Sec 405, Lot 12 & 13,
+                                  <br>  Port Moresby, NCD </p>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                                <p class="call-text"><span><i class="icon-phone-call icon-1x"></i></span>3112200/3112202</p>
+                                <p class="call-text"><span><i class="icon-phone-call icon-1x"></i></span>3112200/3112202<br>
+                                <span><i class="icon-letter icon-1x"></i></span>enquiry@ifinancepng.com</p>
                             </div>
                         </div>
                     </div>
@@ -55,9 +54,8 @@
                     <div class="widget-footer mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/products">Services</a></li>
-                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/products">Lending Services</a></li>
+                            <li><a href="/">Carrer</a></li>                           
                             <li><a href="/contact-us">Contact Us</a></li>
                         </ul>
                     </div>
@@ -80,9 +78,9 @@
                         <!-- widget footer -->
                         <ul class="listnone">
                             <li><a href="https://www.linkedin.com/company/i-finance-png/"><i class="fa fa-facebook"></i>Facebook</a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i>Google Plus</a></li>
+                            <li><a href="https://www.linkedin.com/company/i-finance-png"><i class="fa fa-linkedin"></i>Linked In</a></li>
+                            <li><a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9"><i class="fa fa-google-plus"></i>Google Map</a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i>Linked In</a></li>
                         </ul>
                     </div>
                     <!-- /.widget footer -->
