@@ -77,7 +77,7 @@
                                 <div class="form-group">
                                       <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <label for="input" class="control-label">Loan Tenure</label>
-                                        <input type="number" class="form-control" id="input" name="period2" placeholder="(in years)">
+                                        <input type="number" class="form-control" id="input" name="period2" placeholder="(# of forthnights)">
                                     </div>
                                 </div>
                                 <div class="form-group">
@@ -107,7 +107,7 @@
                                     <div class="form-group">
                                         <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-text" name="field13">
                                         </output>
-                                        <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-amount text-orange-400" name="field11"></output>
+                                        <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-amount text-success mb40" name="field11"></output>
                                     </div>
                                     <div class="form-group">
                                         <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-text" name="field12"></output>

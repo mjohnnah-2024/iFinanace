@@ -3,7 +3,7 @@
      var rate1 = document.formval2.int_rate2.value; // pick the form input value..
      var n1 = document.formval2.period2.value; // pick the form input value..
      var r1 = rate1 / (12 * 100); // to calculate rate percentage..
-     var prate1 = (P1 * r1 * Math.pow((1 + r1), n1 * 12)) / (Math.pow((1 + r1), n1 * 12) - 1); // to calculate compound interest..
+     var prate1 = (P1 * r1 * Math.pow((1 + r1), n1 * 1)) / (Math.pow((1 + r1), n1 * 1) - 1); // to calculate compound interest..
      var emi1 = Math.ceil(prate1 * 100) / 100; // to parse emi amount..
      var existing = document.formval2.ExLoan.value;
      var existingLoan = (existing - (existing * 60 / 100));
@@ -16,7 +16,7 @@
          var incomere = ((income1) * 50 / 100) - existingLoan;
      }
      var incomereq = Math.floor(incomere / emi1 * P1);
-     var prate2 = (incomereq * r1 * Math.pow((1 + r1), n1 * 12)) / (Math.pow((1 + r1), n1 * 12) - 1); // to calculate compound interest2..
+     var prate2 = (incomereq * r1 * Math.pow((1 + r1), n1 * 1)) / (Math.pow((1 + r1), n1 * 1) - 1); // to calculate compound interest2..
      var emi2 = Math.ceil((prate2) * 100) / 100; // to parse emi2 amount..   //Check again Reminder
      // to assign value in field1 as fixed upto two decimal..
      if (incomereq > P1) {
