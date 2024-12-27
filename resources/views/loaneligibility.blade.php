@@ -111,11 +111,19 @@
                                     </div>
                                     <div class="form-group">
                                         <output class="col-lg-12 col-sm-12 col-md-12 col-xs-12 eligibility-text" name="field12"></output>
-                                    </div>
+                                    </div>                                    
                                 </form>
-                            </div>
+                            </div>                            
                         </div>
                     </div>
+                </div>
+                <div>
+                    <p class="text-dark">                              
+                    <strong>Disclaimer:</strong> <br>
+                    The loan eligibility amount displayed by this calculator is an estimate based on the details you have entered.
+                    It is intended for illustrative purposes only, and the actual repayment amounts may differ.
+                    For precise repayment figures, please <a href="/contact-us" class="btn-link">contact us.</a>
+                    </p>
                 </div>
             </div>
         </div>

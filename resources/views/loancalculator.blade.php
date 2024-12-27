@@ -86,6 +86,14 @@
                     </div>
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div id="loantable" class='table table-striped table-bordered loantable table-responsive'></div>
+                        <div>
+                            <p class="text-dark">                              
+                            <strong>Disclaimer:</strong> <br>
+                            The repayment amount displayed by this loan repayment calculator is an estimate based on the details you have entered.
+                            It is intended for illustrative purposes only, and the actual repayment amounts may differ.
+                            For precise repayment figures, please <a href="/contact-us" class="btn-link">contact us.</a>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
