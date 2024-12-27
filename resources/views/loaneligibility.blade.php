@@ -54,7 +54,7 @@
                                 </div>
                                 <div class="form-group">
                                      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                        <label for="input" class="control-label">Net income per month</label>
+                                        <label for="input" class="control-label">Net income per forthnight</label>
                                         <div class="input-group">
                                              <div class="input-group-prepend">
                                             <span class="input-group-text">K</span>
@@ -70,7 +70,7 @@
                                              <div class="input-group-prepend">
                                             <span class="input-group-text">K</span>
                                         </div>
-                                            <input type="number" class="form-control" id="input" Name="ExLoan" placeholder="(per month)">
+                                            <input type="number" class="form-control" id="input" Name="ExLoan" placeholder="(per forthnight)">
                                         </div>
                                     </div>
                                 </div>

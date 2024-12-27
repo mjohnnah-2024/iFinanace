@@ -55,7 +55,7 @@
                         <!-- widget footer -->
                         <ul class="listnone">
                             <li><a href="/products">Lending Services</a></li>
-                            <li><a href="/">Carrer</a></li>                           
+                            <li><a href="/">Career</a></li>                           
                             <li><a href="/contact-us">Contact Us</a></li>
                         </ul>
                     </div>
