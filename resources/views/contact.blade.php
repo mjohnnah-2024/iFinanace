@@ -77,10 +77,14 @@
                                                 <textarea class="form-control" id="message" rows="7" name="message" placeholder="Message" required></textarea>
                                             </div>
                                         </div>
+                                        <div id="spinner" class="spinner-border spinner-border-sm mx-2 htmx-indicator" role="status">
+                                            <span class="visually-hidden">Sending Messge...</span>
+                                          </div>
+                                          <br />
                                         <!-- Button -->
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <button type="submit" class="btn btn-default"
-                                            hx-post="/contact-message" hx-target="#message-us" hx-swap="outerHTML" hx-indicator="dots" hx-trigger="click"
+                                            <button type="submit" class="btn btn-default" 
+                                            hx-post="/contact-message" hx-target="#message-us" hx-swap="outerHTML" hx-trigger="click" hx-indicator="#spinner"                                            
                                             >Submit</button>
                                         </div>
                                      
