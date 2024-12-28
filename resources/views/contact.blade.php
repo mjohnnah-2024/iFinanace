@@ -45,7 +45,8 @@
                                 </div>
                             </div>
 
-                                <form class="contact-us" method="post" action="https://jituchauhan.com/borrow/bootstrap-4/contact-us.php">
+                                <form class="contact-us" id="message-us">
+                                    @csrf
                                     <div class=" ">
                                         <!-- Text input-->
                                         <div class="row">
@@ -73,13 +74,16 @@
                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                             <div class="form-group">
                                                 <label class="control-label" for="message"> </label>
-                                                <textarea class="form-control" id="message" rows="7" name="message" placeholder="Message"></textarea>
+                                                <textarea class="form-control" id="message" rows="7" name="message" placeholder="Message" required></textarea>
                                             </div>
                                         </div>
                                         <!-- Button -->
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                            <button type="submit" class="btn btn-default">Submit</button>
+                                            <button type="submit" class="btn btn-default"
+                                            hx-post="/contact-message" hx-target="#message-us" hx-swap="outerHTML" hx-indicator="dots" hx-trigger="click"
+                                            >Submit</button>
                                         </div>
+                                     
                                     </div>
                                 </form>
                             </div>

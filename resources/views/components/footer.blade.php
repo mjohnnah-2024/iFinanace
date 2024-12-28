@@ -16,7 +16,7 @@
                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
                         <div class="newsletter-form">
                             <!-- Newsletter Form -->
-                            <form action="https://jituchauhan.com/borrow/bootstrap-4/newsletter.php" method="post">
+                            <form action="/subscribe" method="post">
                                 <div class="input-group">
                                     <input type="email" class="form-control" id="newsletter" name="newsletter" placeholder="Write E-Mail Address" required>
                                     <span class="input-group-btn">

@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -21,4 +22,7 @@ Route::get('/loan-calculator', function () {
 Route::get('/loan-eligibility', function () {
     return view('loaneligibility');
 });
-
+Route::post('/contact-message', [ContactController::class, 'store'])->name('contact-message');
+Route::get('/message-send', function () {
+    return view('message-send');
+});
