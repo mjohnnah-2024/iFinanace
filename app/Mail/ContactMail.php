@@ -27,7 +27,7 @@ class ContactMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Email from Conatct Form',
+            subject: 'Email Message from Contact Form',
         );
     }
 
