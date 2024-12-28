@@ -19,7 +19,7 @@ class ContactController extends Controller
         ]);
         Mail::to($data['email'])
             ->send(new AppMail($data['name'], $data['email'], $data['phone'], $data['message']));
-      //return  DD($data);
+      
            return (" <hr /> <div class='text-success text-center h2'> <strong>Message Send Successfully! </strong></div> <hr />
            <div class='text-center'>  Hi {$data['name']}, thank you for contacting us. </div>
           <p class='text-center'> We will get in touch with you shortly.</p> <br> <br> <hr />");

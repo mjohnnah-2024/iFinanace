@@ -23,6 +23,3 @@ Route::get('/loan-eligibility', function () {
     return view('loaneligibility');
 });
 Route::post('/contact-message', [ContactController::class, 'store'])->name('contact-message');
-Route::get('/message-send', function () {
-    return view('message-send');
-});
