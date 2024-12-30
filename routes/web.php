@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\SubscribeController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -23,3 +24,4 @@ Route::get('/loan-eligibility', function () {
     return view('loaneligibility');
 });
 Route::post('/contact-message', [ContactController::class, 'store'])->name('contact-message');
+Route::post('/newsletter-signup', [SubscribeController::class, 'store'])->name('newsletter-signup');

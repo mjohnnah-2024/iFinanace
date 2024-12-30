@@ -13,15 +13,21 @@
                     <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12">
                         <h3 class="newsletter-title">Signup Our Newsletter</h3>
                     </div>
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
-                        <div class="newsletter-form">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12" id="replace-form">
+                        <div class="newsletter-form" >
                             <!-- Newsletter Form -->
-                            <form action="/subscribe" method="post">
+                            <form>
+                                @csrf
                                 <div class="input-group">
-                                    <input type="email" class="form-control" id="newsletter" name="newsletter" placeholder="Write E-Mail Address" required>
+                                    <input type="email" class="form-control" id="newsletter" name="email" placeholder="Write E-Mail Address" required>
                                     <span class="input-group-btn">
-                <button class="btn btn-default bg-orange-300" type="submit">Go!</button>
-                </span> </div>
+                           <button class="btn btn-default bg-orange-300" type="submit"
+                            hx-post="/newsletter-signup" hx-target="#replace-form" hx-swap="outerHTML" hx-trigger="click" hx-indicator="#spinner-signup" hx-validate="true"
+                            >Signup</button>               
+                           </span> </div>
+                          <div id="spinner-signup" class="spinner-border spinner-border-sm mx-2 htmx-indicator text-info" role="status">
+                           <span class="visually-hidden">Signing up, please wait........</span>
+                           </div>
                                 <!-- /input-group -->
                             </form>
                         </div>
