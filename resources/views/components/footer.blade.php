@@ -25,8 +25,8 @@
                             hx-post="/newsletter-signup" hx-target="#replace-form" hx-swap="outerHTML" hx-trigger="click" hx-indicator="#spinner-signup" hx-validate="true"
                             >Signup</button>               
                            </span> </div>
-                          <div id="spinner-signup" class="spinner-border spinner-border-sm mx-2 htmx-indicator text-info" role="status">
-                           <span class="visually-hidden">Signing up, please wait........</span>
+                          <div id="spinner-signup" class="spinner-border spinner-border-sm mx-2 htmx-indicator" role="status">
+                           <span class="visually-hidden text-warning">Signing up, please wait........</span>
                            </div>
                                 <!-- /input-group -->
                             </form>

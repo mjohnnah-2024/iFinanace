@@ -84,14 +84,14 @@
                                         <button type="submit" class="btn btn-default" 
                                         hx-post="/contact-message" hx-target="#message-us" hx-swap="outerHTML" hx-trigger="click" hx-indicator="#spinner" hx-validate="true"                                     
                                         >Submit</button>
-                                    </div> 
-                                    <br />  
-                                    <div id="spinner" class="spinner-border spinner-border-sm mx-2 htmx-indicator text-info" role="status">
-                                        <span class="visually-hidden">Sending your message, please wait.....</span>
-                                      </div>                                                                      
-                                </div>
+                                        <span id="spinner" class="spinner-border spinner-border-sm mx-2 htmx-indicator text-info" role="status">
+                                            <span class="visually-hidden text-warning">Sending your message, please wait.....</span>
+                                        </span> 
+                                    </div>                                                                                                     
+                                </div>                                
                             </form>
-                               
+                            <br />
+                             
                             </div>
                         </div>
                         <!-- /.section title start-->
