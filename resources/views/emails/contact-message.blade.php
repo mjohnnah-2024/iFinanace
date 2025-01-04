@@ -1,7 +1,7 @@
 <div>
-<p>Message Details</p>
-<p>From: {{ $data['name'] }}</p>
-<p>Email: {{ $data['email'] }}</p>
-<p>Phone: {{ $data['phone'] }}</p>
-<p>Message: {{ $data['message'] }}</p>
+<p><b>Message Details</b></p>
+<p><b>From:</b> {{ $data['name'] }}</p>
+<p><b>Email:</b> {{ $data['email'] }}</p>
+<p><b>Phone:</b> {{ $data['phone'] }}</p>
+<p><b>Message:</b> {{ $data['message'] }}</p>
 </div>

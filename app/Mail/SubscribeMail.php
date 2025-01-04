@@ -8,6 +8,7 @@ use Illuminate\Mail\Mailable;
 use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
 use Illuminate\Queue\SerializesModels;
+use SebastianBergmann\Template\Template;
 
 class SubscribeMail extends Mailable
 {
@@ -27,7 +28,8 @@ class SubscribeMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Newsletter Signup',            
+            subject: 'Newsletter Signup',   
+            to: $this->data['email'],         
         
         );
     }

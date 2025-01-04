@@ -9,6 +9,8 @@
 
  <!-- Google Fonts -->
  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700%7cMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+ <!-- HTMX -->
+ <script src="https://unpkg.com/htmx.org@2.0.4" integrity="sha384-HGfztofotfshcF7+8n44JQL2oJmowVChPTg48S+jvZoztPfvwD79OC/LTtG6dMp+" crossorigin="anonymous"></script>
 <body>
 <x-header />
 

@@ -17,10 +17,13 @@ class SubscribeController extends Controller
             
         ]);
 
-        Mail::to('admin@ifinancepng.com')->send(new SubscribeMail([        
+        //defer(fn () => Metrics::reportOrder($order));
+ 
+
+     defer(fn ()=>   Mail::to('admin@ifinancepng.com')->send(new SubscribeMail([        
             'email' => $data['email'],
             
-        ]));
+        ])));
 
         return (" <hr /> <div class='text-success text-center h5'> <strong>Signup Successful! </strong></div> <hr />");
            
