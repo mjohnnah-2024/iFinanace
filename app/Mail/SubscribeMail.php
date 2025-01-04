@@ -29,7 +29,7 @@ class SubscribeMail extends Mailable
     {
         return new Envelope(
             subject: 'Newsletter Signup',   
-            to: $this->data['email'],         
+           // to: $this->data['email'],         
         
         );
     }
