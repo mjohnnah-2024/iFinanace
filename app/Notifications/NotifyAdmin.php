@@ -40,12 +40,13 @@ class NotifyAdmin extends Notification
         //return (new MailMessage)->markdown('mail.nofify-admin');
         return (new MailMessage)
         ->subject('Message From Contact Form')
+            ->line('Message Details:')
             ->line('Name: '.$this->data['name'])
             ->line('Email: '.$this->data['email'])
             ->line('Phone: '.$this->data['phone'])
-            ->line('Message: '.$this->data['message'])
-            ->action('Notification Action', url('/'))
-            ->line('Thank you for using our application!');
+            ->line('Message: '.$this->data['message']);
+            
+          
     }
 
     /**

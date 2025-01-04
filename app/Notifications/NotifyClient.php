@@ -42,7 +42,7 @@ class NotifyClient extends Notification
         return (new MailMessage)
         ->subject('Your Message Submitted Successfully')
         ->line('We will get in touch with you shorltly.')
-        ->action('Notification Action', url('/products'))
+        ->action('You can view our loan products here', url('/products'))
         ->line('Thank you for getting in touch!');
     }
 
