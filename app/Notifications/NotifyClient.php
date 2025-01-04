@@ -10,15 +10,18 @@ use Illuminate\Notifications\Notification;
 class NotifyClient extends Notification
 {
     use Queueable;
+    public $data;
 
 
     /**
      * Create a new notification instance.
      */
-    public function __construct()
+    public function __construct($data)
     {
-        //
-    }
+        $this->data = $data;
+    }  
+        
+    
 
     /**
      * Get the notification's delivery channels.

@@ -8,6 +8,7 @@ use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Notification;
 use App\Notifications\NotifyAdmin;
+use App\Notifications\NotifyClient;
 
 class ContactFormSubmitted
 {
@@ -26,5 +27,6 @@ class ContactFormSubmitted
     {
         //Mail::to('admin@ifinancepng.com')->send(new NotifyAdmin($event->data));
         Notification::route('mail', 'admin@ifinancepng.com')->notify(new NotifyAdmin($event->data));
+        Notification::route('mail', $event->data['email'])->notify(new NotifyClient($event->data));
     }
 }
