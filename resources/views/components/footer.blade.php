@@ -62,7 +62,7 @@
                         <!-- widget footer -->
                         <ul class="listnone">
                             <li><a href="/products">Lending Services</a></li>
-                            <li><a href="/">Career</a></li>                           
+                            <li><a href="https://www.linkedin.com/company/i-finance-png/posts/?feedView=all">Career</a></li>                           
                             <li><a href="/contact-us">Contact Us</a></li>
                         </ul>
                     </div>
