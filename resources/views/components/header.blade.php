@@ -20,7 +20,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-4 col-lg-5 col-md-4 col-sm-6 col-6 d-none d-xl-block d-lg-block">
-                <p class="mail-text text-black">Welcome to iFinance Website</p>
+                <p class="mail-text text-black"></p>
             </div>
             <div class="col-xl-8 col-lg-7 col-md-12 col-sm-12 col-12 text-right">
                 <div class="top-nav"> <span class="top-text"><a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9" class="text-black">Find Our Location</a> </span> <span class="top-text"><a href="/" class="text-black">+675-311-2200</a></span> <span class="top-text"><a href="/loan-eligibility" class="text-black">Loan Eligibility Check</a></span> </div>

@@ -5,14 +5,15 @@
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
                     <div class="footer-logo">
                         <!-- Footer Logo -->
-                        <img src="images/logo.png" alt="iFinance- Loan Company Website Templates" style="height: 5.5rem; width:5.5rem;"> </div>
+                        <img src="images/logo_white_bg.png" alt="iFinance" style="height: 5.5rem; width:5.5rem;"> </div>
                     <!-- /.Footer Logo -->
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
-                    <div class="row">
+                <div class="row">
                     <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12">
-                        <h3 class="newsletter-title">Signup Our Newsletter</h3>
+                        <h4 class="newsletter-title">Signup Our Newsletter</h4>
                     </div>
+                    
                     <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12" id="replace-form">
                         <div class="newsletter-form" >
                             <!-- Newsletter Form -->
@@ -25,7 +26,7 @@
                             hx-post="/newsletter-signup" hx-target="#replace-form" hx-swap="outerHTML" hx-trigger="click" hx-indicator="#spinner-signup" hx-validate="true"
                             >Signup</button>               
                            </span> </div>
-                          <div id="spinner-signup" class="spinner-border spinner-border-sm mx-2 htmx-indicator" role="status">
+                          <div id="spinner-signup" class="spinner-border spinner-border-sm htmx-indicator" role="status">
                            <span class="visually-hidden text-warning">Signing up, please wait........</span>
                            </div>
                                 <!-- /input-group -->
@@ -85,8 +86,7 @@
                         <ul class="listnone">
                             <li><a href="https://www.linkedin.com/company/i-finance-png/"><i class="fa fa-facebook"></i>Facebook</a></li>
                             <li><a href="https://www.linkedin.com/company/i-finance-png"><i class="fa fa-linkedin"></i>Linked In</a></li>
-                            <li><a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9"><i class="fa fa-google-plus"></i>Google Map</a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
+                            <li><a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9"><i class="fa fa-google-plus"></i>Google Map</a></li>                           
                         </ul>
                     </div>
                     <!-- /.widget footer -->
@@ -100,7 +100,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                    <p>&#169; i-Finance PNG LTD  | Degined by <a href="https://www.nextgenpng.net" target="_blank">Nextgen Technology</a></p>
+                    <p>&#169; iFinance PNG LTD  | Degined by <a href="https://www.nextgenpng.net" target="_blank">Nextgen Technology</a></p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
                     <p>Terms of use | Privacy Policy</p>

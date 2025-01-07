@@ -99,7 +99,7 @@
                 <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb30 text-center section-title">
                         <!-- section title start-->
-                        <h1>Apply in three easy steps</h1>
+                        <h1>Apply in 3 easy steps</h1>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -110,7 +110,13 @@
                     <div class="bg-white pinside40 number-block mb30">
                         <div class="pink-circle circle"><span class="number">1</span></div>
                         <h3>Complete the form</h3>
-                        <p>Download and complete the loan application form. The form should contain all necessary information.</p>
+                        <p>Download and complete the loan application forms. Each form should contain all necessary information.
+                            <ul class="listnone bullet list-pdf-file">
+                                <li><a href="{{ asset('forms/Personal_Loans.pdf') }}"> Personal Loan Application Form</a></li>
+                                <li><a href="{{ asset('forms/Business_Loans.pdf') }}"> Business Loan Application Form</a></li>                            
+                                <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}"> Refinance Loan Application Form</a></li>                            
+                            </ul>
+                        </p>                        
                     </div>
                 </div>
                 <!-- /.process -->
@@ -144,7 +150,7 @@
             <div class=" offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="text-center">
                     <!-- section title start-->
-                    <h1 class="text-white">Let’s Discuss Your Needs</h1>
+                    <h1 class="text-white">Let’s discuss your needs</h1>
                     <p class="text-white">Contact us today to learn more about our services or to discuss your financial needs. Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances.</p>
                     <a href="/contact-us" class="btn btn-warning">Contact Us Now</a>
                     <a href="/products" class="btn btn-dark">Read More On Our Loan Products</a>
@@ -163,8 +169,8 @@
                <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title-->
-                        <h1>We are Here to Help You</h1>
-                        <p>Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances..</p>
+                        <h1>We are here to help you</h1>
+                        <p>Get in touch with our knowledgeable team to provide you with the guidance and support you need to make informed decisions about your finances.</p>
                     </div>
                     <!-- /.section title-->
                 </div>
@@ -172,27 +178,22 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
-                        <div class="mb40"><i class="icon-calendar-3 icon-2x icon-default"></i></div>
-                        <h2 class="capital-title">Loan Application Forms</h2>
-                        <p>Download the loan forms with more detailed information to apply for your loan now.</p>
-                        <ul class="listnone bullet list-pdf-file">
-                            <li><a href="{{ asset('forms/Personal_Loans.pdf') }}"> Personal Loan Application Form</a></li>
-                            <li><a href="{{ asset('forms/Business_Loans.pdf') }}"> Business Loan Application Form</a></li>                            
-                            <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}"> Refinance Loan Application Form</a></li>                            
-                        </ul>
-                        <a href="/products" class="btn-link">Read More Information</a>
+                        <div class="mb40"><i class="icon-letter icon-2x icon-default"></i></div>
+                        <h2 class="capital-title">Email Us</h2>
+                        <p> enquiry@ifinancepng.com</p>
+                        <p>lending@ifinancepng.com</p>            
+                        <a href="/contact-us" class="btn-link">Send Us A Quick Message</a>
                      </div>
                 </div>
                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"><i class="icon-phone-call icon-2x icon-default"></i></div>
-                        <h2 class="capital-title">Contact Us </h2>
-                        <p>Phone: 3112200</p>
-                        <p>Phone: 3112202</p>
-                        <p>Mobile: 77163656</p>
+                        <h2 class="capital-title">Call or WhatsApp </h2>
+                        <p>Phone: 3112200</p>                       
+                        <p>WhatsApp: 77163656</p>
 
                         <p>Email: enquiry@ifinancepng.com</p>
-                        <a href="/contact-us" class="btn-link">Need More Information</a> </div>
+                        <a href="/contact-us" class="btn-link">Message Us</a> </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">

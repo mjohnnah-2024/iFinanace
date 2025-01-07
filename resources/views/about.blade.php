@@ -62,10 +62,10 @@
                                     <div class="tab-content">
                                         <div role="tabpanel" class="tab-pane active" id="overview">
                                             <h1>About iFinance</h1>
-                                            <p>i-Finance PNG limited was Incorporated on July 17, 2015, and registered with the Investment Promotion Authority (IPA) under Registration No. 1-107325. i-Finance is a regulated financial institution, licensed by Bank of Papua New Guinea (BPNG) under Banking & Financial Institution Act 2000.</p>
+                                            <p>iFinance PNG limited was Incorporated on July 17, 2015, and registered with the Investment Promotion Authority (IPA) under Registration No. 1-107325. i-Finance is a regulated financial institution, licensed by Bank of Papua New Guinea (BPNG) under Banking & Financial Institution Act 2000.</p>
                                             <p>The company offers personal and business lending services. It caters to both private and public sector employees, aiming to provide easy access to financial services through innovative solutions and superior service delivery.</p>
                                             <p>It prides itself on its experienced staff, who are dedicated to delivering high-quality service to meet the financial needs of its clients.</p>
-                                            <p>At i-Finance, we understand your family’s financial needs better, and so we make it easy for you</p>
+                                            <p>At iFinance, we understand your family’s financial needs better, and so we make it easy for you</p>
 
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="features">

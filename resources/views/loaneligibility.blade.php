@@ -82,13 +82,13 @@
                                 </div>
                                 <div class="form-group">
                                       <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                        <label for="input" class="control-label">Rate of Interest</label>
+                                       <!-- <label for="input" class="control-label">Rate of Interest</label>
                                         <div class="input-group">
                                             <div class="input-group-prepend">
                                             <span class="input-group-text">%</span>
                                         </div>
-                                            <input type="number" class="form-control" id="input" value="9.5" name="int_rate2">
-                                        </div>
+                                            <input type="number" class="form-control" id="input" value="90.89" name="int_rate2">
+                                        </div>--->
                                     </div>
                                 </div>
                                 <div class="form-group">

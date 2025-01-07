@@ -19,7 +19,7 @@
                         <div class="col-xl-8 col-lg-8 col-md-3 col-sm-12 col-12">
                             <div class="row">
                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                    <div class="btn-action"> <a href="/contct-us" class="btn btn-default">Contact Us</a> </div>
+                                    <div class="btn-action"> <a href="/contact-us" class="btn btn-default">Contact Us</a> </div>
                                 </div>
                             </div>
                         </div>
@@ -43,12 +43,12 @@
                                     <span>Loan Amount </span>
                                     <strong>
                                         <span class="pull-right" id="la_value">500</span></strong>
-                                    <input type="text" data-slider="true" value="500" data-slider-range="500,10000" data-slider-step="100" data-slider-snap="true" id="la">
+                                    <input type="text" data-slider="true" value="500" data-slider-range="500,100000" data-slider-step="100" data-slider-snap="true" id="la">
                                     <hr>
                                     <span>No. of Forthnight <strong>
                                         <span class="pull-right"  id="nm_value">3</span> </strong>
                                     </span>
-                                    <input type="text" data-slider="true" value="1" data-slider-range="3,25" data-slider-step="1" data-slider-snap="true" id="nm">
+                                    <input type="text" data-slider="true" value="1" data-slider-range="3,78" data-slider-step="1" data-slider-snap="true" id="nm">
                                     <hr>
                                     <!--<span>Interest Rate <strong><span class="pull-right"  id="roi_value">90.89</span>
                                     </strong>

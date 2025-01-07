@@ -26,7 +26,7 @@
                 var loanAmount = $("#la_value").html();
                 var numberOfMonths = $("#nm_value").html();
                 //var rateOfInterest = $("#roi_value").html();
-                var rateOfInterest = 90.89;
+                var rateOfInterest = 90.79;
                 var monthlyInterestRatio = (rateOfInterest/100)/12;
 
                 var top = Math.pow((1+monthlyInterestRatio),numberOfMonths);
