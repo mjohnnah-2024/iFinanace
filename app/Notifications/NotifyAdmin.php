@@ -18,7 +18,7 @@ class NotifyAdmin extends Notification
      */
     public function __construct($data)
     {
-        //$this->data = $data;
+        $this->data = $data;
     }
     
 
@@ -38,7 +38,9 @@ class NotifyAdmin extends Notification
    
     public function toMail(object $notifiable): MailMessage
     {
-        return (new MailMessage)->markdown('mail.nofify-admin', ['data' => $this->data]);
+        return (new MailMessage)
+        ->markdown('mail.nofify-admin')
+        ->subject('Message From Contact Form');
 
        /* return (new MailMessage)
         ->subject('Message From Contact Form')
