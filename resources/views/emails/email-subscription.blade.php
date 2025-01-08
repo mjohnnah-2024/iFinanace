@@ -1,1 +1,1 @@
-<p>{{$data['email']}} has signed up to receive newsletters, product updates and other necessary information about iFinanace.</p>
+<p>{{$data['email']}} has signed up to receive newsletters, product updates and other necessary information about iFinance.</p>
