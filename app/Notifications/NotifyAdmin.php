@@ -42,8 +42,10 @@ class NotifyAdmin extends Notification
 
        return (new MailMessage)
         ->subject('Message From Contact Form')
+        ->replyTo($this->data['email'])
         ->greeting('Message From Contact Form')
             ->line('Message Details:')
+            ->line('--------------------------------------')
             ->line('Name: '.$this->data['name'])            
             ->line('Email: '.$this->data['email'])
             ->line('Phone: '.$this->data['phone'])          
