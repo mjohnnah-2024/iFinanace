@@ -1,7 +1,10 @@
 <x-mail::message>
-# Introduction
+# Contact Form Message from {{ data['name'] }}
 
-The body of your message.
+Name: {{ $data['name'] }}
+Email: {{ $data['email'] }}
+Number: {{ $data['subject'] }}
+Message:{{ $data['message'] }}
 
 <x-mail::button :url="''">
 Button Text
