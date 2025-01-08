@@ -1,10 +1,5 @@
 <x-mail::message>
-# Contact Form Message from {{ data['name'] }}
-
-Name: {{ data['name'] }}
-Email: {{ data['email'] }}
-Number: {{ data['subject'] }}
-Message:{{ data['message'] }}
+# Contact Form Message from
 
 <x-mail::button :url="''">
 Button Text
