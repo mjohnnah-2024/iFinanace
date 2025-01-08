@@ -89,6 +89,7 @@
                                         </div>
                                             <input type="number" class="form-control" id="input" value="90.89" name="int_rate2">
                                         </div>--->
+                                        <input type="hidden" id="input" value="90.89" name="int_rate2">
                                     </div>
                                 </div>
                                 <div class="form-group">
