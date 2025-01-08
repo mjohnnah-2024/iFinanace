@@ -45,10 +45,11 @@ class NotifyAdmin extends Notification
         ->greeting('Hello Admin,')
             ->line('Message Details:')
             ->line('Name: '.$this->data['name'])
+            ->line('--------------------------------------')
             ->line('Email: '.$this->data['email'])
             ->line('Phone: '.$this->data['phone'])
             ->line('Message: '.$this->data['message'])    
-            ->salutation('Thank you for using our application!');     
+            ->salutation('--------------------------------------');     
           
     }
     
