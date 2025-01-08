@@ -35,26 +35,23 @@ class NotifyAdmin extends Notification
     /**
      * Get the mail representation of the notification.
      */
-    public function view(object $notifiable): MailMessage
-    {
-        return (new MailMessage)->view('mail.contactMail');
-       
-    }
-    /*
+   
     public function toMail(object $notifiable): MailMessage
     {
-        //return (new MailMessage)->markdown('mail.nofify-admin');
-        return (new MailMessage)
+        return (new MailMessage)->markdown('mail.nofify-admin');
+        
+       /* return (new MailMessage)
         ->subject('Message From Contact Form')
             ->line('Message Details:')
             ->line('Name: '.$this->data['name'])
             ->line('Email: '.$this->data['email'])
             ->line('Phone: '.$this->data['phone'])
             ->line('Message: '.$this->data['message']);
+            **/
             
           
     }
-    */
+    
 
     /**
      * Get the array representation of the notification.

@@ -1,1 +1,1 @@
-<p>{{$data['email']}} has signup for our newsletter</p>
+<p>{{$data['email']}} has signed up for iFinance newsletter</p>
