@@ -27,7 +27,7 @@
      } else {
          document.formval3.field13.value = ("You are not Eligible for this loan");
          document.formval3.field11.value = ("");
-         document.formval3.field12.value = ("You are Eligible for a maximum loan of " + ("K" + incomereq + " at a forthnighly repayable amount of " + "K" + emi2.toFixed(0)));
+         document.formval3.field12.value = ("Note, you are Eligible for a maximum loan of " + ("K" + incomereq + " at a forthnighly repayable amount of " + "K" + emi2.toFixed(0)));
      }
 
      //to assign value in field2..
