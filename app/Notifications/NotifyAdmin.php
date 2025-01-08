@@ -44,10 +44,10 @@ class NotifyAdmin extends Notification
         ->subject('Message From Contact Form')
         ->greeting('Hello Admin,')
             ->line('Message Details:')
-            ->line('Name: '.$this->data['name'])
-            ->line('--------------------------------------')
+            ->line('Name: '.$this->data['name'])            
             ->line('Email: '.$this->data['email'])
             ->line('Phone: '.$this->data['phone'])
+            ->line('--------------------------------------')
             ->line('Message: '.$this->data['message'])    
             ->salutation('--------------------------------------');     
           
