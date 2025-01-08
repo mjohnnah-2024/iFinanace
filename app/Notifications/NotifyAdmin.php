@@ -42,6 +42,8 @@ class NotifyAdmin extends Notification
         ->markdown('mail.nofify-admin')
         ->subject('Message From Contact Form');
 
+    
+
        /* return (new MailMessage)
         ->subject('Message From Contact Form')
             ->line('Message Details:')
