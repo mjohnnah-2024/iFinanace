@@ -35,6 +35,12 @@ class NotifyAdmin extends Notification
     /**
      * Get the mail representation of the notification.
      */
+    public function view(object $notifiable): MailMessage
+    {
+        return (new MailMessage)->view('mail.contactMail');
+       
+    }
+    /*
     public function toMail(object $notifiable): MailMessage
     {
         //return (new MailMessage)->markdown('mail.nofify-admin');
@@ -48,6 +54,7 @@ class NotifyAdmin extends Notification
             
           
     }
+    */
 
     /**
      * Get the array representation of the notification.
