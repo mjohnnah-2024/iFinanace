@@ -59,7 +59,7 @@
                                              <div class="input-group-prepend">
                                             <span class="input-group-text">K</span>
                                         </div>
-                                            <input type="number" class="form-control" id="input" name="NetIncome" placeholder="Excluding LTA and Medical allowances">
+                                            <input type="number" class="form-control" id="input" name="NetIncome" placeholder="Enter Net Income">
                                         </div>
                                     </div>
                                 </div>
@@ -70,14 +70,14 @@
                                              <div class="input-group-prepend">
                                             <span class="input-group-text">K</span>
                                         </div>
-                                            <input type="number" class="form-control" id="input" Name="ExLoan" placeholder="(per forthnight)">
+                                            <input type="number" class="form-control" id="input" Name="ExLoan" placeholder="Enter Forthnightly Commitment">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="form-group">
                                       <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <label for="input" class="control-label">Loan Tenure</label>
-                                        <input type="number" class="form-control" id="input" name="period2" placeholder="(# of forthnights)">
+                                        <input type="number" class="form-control" id="input" name="period2" placeholder="(Enter Number  Of Forthnights)">
                                     </div>
                                 </div>
                                 <div class="form-group">

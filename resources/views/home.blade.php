@@ -59,7 +59,7 @@
                     <div class="mb60 text-center section-title">
                         <!-- section title-->
                         <h1>Our Lending Services</h1>
-                        <p>iFinance offers personal and business lending services. For personal loans, it caters to both private and public sector employees, aiming to provide easy access to financial services through innovative solutions and superior service delivery..</p>
+                        <p>iFinance offers personal and business lending services. For personal loans, it caters to both private and public sector employees, aiming to provide easy access to financial services through innovative solutions and superior service delivery.</p>
                     </div>
                     <!-- /.section title-->
                 </div>

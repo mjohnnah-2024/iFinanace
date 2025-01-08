@@ -1,6 +1,6 @@
  function eligiable() {
     var P1 = document.formval2.pr_amt2.value; // pick the form input value..
-    var rate1 =90.79 //document.formval2.int_rate2.value; // pick the form input value..
+    var rate1 = document.formval2.int_rate2.value; // pick the form input value..
     var n1 = document.formval2.period2.value; // pick the form input value..
     var r1 = rate1 / (12 * 100); // to calculate rate percentage..
     var prate1 = (P1 * r1 * Math.pow((1 + r1), n1 * 12)) / (Math.pow((1 + r1), n1 * 12) - 1); // to calculate compound interest..
