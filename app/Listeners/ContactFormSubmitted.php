@@ -27,6 +27,6 @@ class ContactFormSubmitted
     {
         //Mail::to('admin@ifinancepng.com')->send(new NotifyAdmin($event->data));
         Notification::route('mail', 'webmaster@ifinancepng.com')->notify(new NotifyAdmin($event->data));
-        Notification::route('mail', $event->data['email'])->notify(new NotifyClient($event->data));
+        //Notification::route('mail', $event->data['email'])->notify(new NotifyClient($event->data));
     }
 }
