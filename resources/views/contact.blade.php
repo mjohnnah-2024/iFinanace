@@ -40,7 +40,7 @@
                             <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                                 <div class="mb60  section-title text-center  ">
                                     <!-- section title start-->
-                                    <h1>Get In Touch</h1>
+                                    <h1>Get in touch</h1>
                                     <p>We would love to hear from you! Contact us today to learn more about our services or to discuss your financial needs. Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances.</p>
                                 </div>
                             </div>

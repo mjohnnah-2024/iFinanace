@@ -190,9 +190,7 @@
                         <div class="mb40"><i class="icon-phone-call icon-2x icon-default"></i></div>
                         <h2 class="capital-title">Call or WhatsApp </h2>
                         <p>Phone: 3112200</p>                       
-                        <p>WhatsApp: 77163656</p>
-
-                        <p>Email: enquiry@ifinancepng.com</p>
+                        <p>WhatsApp: 77163656</p>                       
                         <a href="/contact-us" class="btn-link">Message Us</a> </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
