@@ -39,7 +39,7 @@ class NotifyAdmin extends Notification
     public function toMail(object $notifiable): MailMessage
     {
         return (new MailMessage)
-        ->markdown('mail.nofify-admin')
+        ->markdown('mail.nofify-admin', compact('name', 'email', 'phone', 'message'))
         ->subject('Message From Contact Form');
 
     

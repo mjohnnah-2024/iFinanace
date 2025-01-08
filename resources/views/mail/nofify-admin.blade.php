@@ -1,7 +1,7 @@
 <x-mail::message>
-# Contact Form Message from {{$this->data['name']}}
+# Contact Form Message from {{'name'}}
 
-{{$this->data['message']}}
+{{'message'}}
 
 <x-mail::button :url="''">
 Button Text
