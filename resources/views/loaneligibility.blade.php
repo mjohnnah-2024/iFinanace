@@ -77,7 +77,7 @@
                                 <div class="form-group">
                                       <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <label for="input" class="control-label">Loan Tenure</label>
-                                        <input type="number" class="form-control" id="input" name="period2" placeholder="(Enter Number  Of Forthnights)">
+                                        <input type="number" class="form-control" id="input" name="period2" placeholder="Enter Number  Of Forthnights">
                                     </div>
                                 </div>
                                 <div class="form-group">
