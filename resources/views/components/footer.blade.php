@@ -20,9 +20,9 @@
                             <form>
                                 @csrf
                                 <div class="input-group">
-                                    <input type="email" class="form-control" id="newsletter" name="email" placeholder="Write E-Mail Address" required>
+                                    <input type="email" class="form-control" id="newsletter" name="email" placeholder="Write E-Mail Address" pattern="/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" required>
                                     <span class="input-group-btn">
-                           <button class="btn btn-default bg-orange-300" type="submit"
+                           <button class="btn btn-default bg-orange-300" type="submit" value="Submit"
                             hx-post="/newsletter-signup" hx-target="#replace-form" hx-swap="outerHTML" hx-trigger="click" hx-indicator="#spinner-signup" hx-validate="true"
                             >Signup</button>               
                            </span> </div>

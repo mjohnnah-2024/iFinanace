@@ -70,6 +70,12 @@
                                             <label class="sr-only control-label" for="phone">Phone<span class=" "> </span></label>
                                             <input id="phone" name="phone" type="text" placeholder="Phone" class="form-control input-md" required>
                                         </div>
+                                    </div>  <!-- Text input-->
+                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                        <div class="form-group">
+                                            <label class="sr-only control-label" for="subject">Subject<span class=" "> </span></label>
+                                            <input id="phone" name="subject" type="text" placeholder="Subject" class="form-control input-md" required>
+                                        </div>
                                     </div>
                                     <!-- Select Basic -->
                                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
