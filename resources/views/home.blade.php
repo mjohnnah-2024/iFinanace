@@ -183,6 +183,7 @@
                         <p> enquiry@ifinancepng.com</p>
                         <p>lending@ifinancepng.com</p>            
                         <a href="/contact-us" class="btn-link">Send Us A Quick Message</a>
+                        <br /> <br />
                      </div>
                 </div>
                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
@@ -191,7 +192,9 @@
                         <h2 class="capital-title">Call or WhatsApp </h2>
                         <p>Phone: 3112200</p>                       
                         <p>WhatsApp: 77163656</p>                       
-                        <a href="/contact-us" class="btn-link">Message Us</a> </div>
+                        <a href="/contact-us" class="btn-link">Message Us</a>
+                        <br /> <br />
+                     </div>                       
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">

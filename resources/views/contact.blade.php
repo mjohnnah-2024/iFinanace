@@ -120,6 +120,7 @@
                                     <h2 class="capital-title">Office Location</h2>
                                     <p>Mutual Rumana Building, <br> Sec 45, Lot 12 & 13
                                         <br> Waigani Drive, <br> Port Moresby, NCD</p>
+                                        <br />
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
@@ -129,6 +130,7 @@
                                     <p>Phone: 3112200
                                     <br>Phone: 3112202
                                     <br>Mobile: 77163656</p>
+                                    <br /><br />
                                 </div>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
@@ -136,6 +138,7 @@
                                     <div class="mb40"> <i class="icon-letter icon-2x icon-default"></i></div>
                                     <h2 class="capital-title">Email Address</h2>
                                     <p>enquiry@ifinancepng.com</p>
+                                    <br /><br /> <br /><br />
                                 </div>
                             </div>
                         </div>

@@ -77,16 +77,16 @@
                                             <h1>Personal Loan</h1>
                                             <p>iFinance offer Personal Loans to its customers working in the Public Sector and Private Sector to cover their short-term borrowing needs. </h3>
                                             <p>iFinance Personal Loans start from K500 and repayment terms can start from 3 fortnights up to a longer term. Our customers can look at our Loan Calculator to check eligibility and choose an amount that suits them. Our interest rates are competitive and reasonable. <p>
-                                            <p>At i-Finance, we take care of  financial needs of our customers and their families and apply a Debt Service Ratio of 30% of the customer’s net pay, which means thirty percent of the pay to cover the loan commitments while the other seventy percent is reserved for family upkeep. </p>
-                                            <p>i-Finance will advance Personal Loans to the customer with loan repayments facilitated through through Direct Salary Deduction arrangements. </p>
-                                            <p>For those working in the Public Sector, our Deduction Code under the Alesco Payroll system is DJAYF. Therefore, all public servants are eligible for a Personal Loan with iI-Finance. </p>
+                                            <p>At iFinance, we take care of  financial needs of our customers and their families and apply a Debt Service Ratio of 30% of the customer’s net pay, which means thirty percent of the pay to cover the loan commitments while the other seventy percent is reserved for family upkeep. </p>
+                                            <p>iFinance will advance Personal Loans to the customer with loan repayments facilitated through through Direct Salary Deduction arrangements. </p>
+                                            <p>For those working in the Public Sector, our Deduction Code under the Alesco Payroll system is DJAYF. Therefore, all public servants are eligible for a Personal Loan with iFinance. </p>
                                             <a href="loan-calculator" class="btn btn-default">Loan Calculator</a>
                                             <a href="{{ asset('forms/Personal_Loans.pdf') }}" class="btn btn-warning">Download Application Form</a>
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="features">
                                             <h1>Business / SME Loan</h1>
                                             <p>Businesses often need funding for various purposes, such as covering daily operational costs (working capital) or making significant investments in assets like equipment or real estate (asset purchase). Securing financing at a low interest rate is beneficial as it reduces borrowing costs, allowing businesses to allocate more resources towards growth and development.</p>
-                                            <p>i-Finance offers Business Loans to Small Medium Enterprise and Business houses.
+                                            <p>iFinance offers Business Loans to Small Medium Enterprise and Business houses.
                                              SME/Business Loans start at K500.00 and the term of loan is subject to the assessment of the business’s debt servicing capacity. You can look at our Loan Calculator to check eligibility and choose an amount that suits your repayment. Our interest rates are competitive and reasonable. </p>
                                              <a href="loan-eligibility" class="btn btn-default">Check Eligibility</a>
                                              <a href="{{ asset('forms/Business_Loans.pdf') }}" class="btn btn-warning">Download Application Form</a>
@@ -95,7 +95,7 @@
                                         <div role="tabpanel" class="tab-pane" id="eligibility">
                                             <h1>Refinancing Loan</h1>
                                             <p>Loan refinancing is where you already have an existing loan and where you require additional funds, it may be practical to refinance with a new loan that consolidates both the existing loans and the new amount you require. This approach allows just having one loan which would be easier to manage than maintaining two or more separate loans.</p>
-                                            <p>i-Finance offers refinancing to existing customers as well as to the new customers.</p>
+                                            <p>iFinance offers refinancing to existing customers as well as to the new customers.</p>
                                             <p>Loan refinancing starts from K500.00 and repayment terms can go up to 78 fortnights (3years). You can look at our Loan Calculator to check eligibility and choose an amount that suits your repayment. Our interest rates are competitive and reasonable.</p>
                                             <a href="loan-eligibility" class="btn btn-default">Check Eligibility</a>
                                             <a href="{{ asset('forms/Refinance_Loans.pdf') }}" class="btn btn-warning">Download Application Form</a>
