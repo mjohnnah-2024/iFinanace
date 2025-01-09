@@ -49,7 +49,7 @@ class NotifyAdmin extends Notification
             ->line('Name: '.$this->data['name'])            
             ->line('Email: '.$this->data['email'])
             ->line('Phone: '.$this->data['phone'])      
-            ->line('Phone: '.$this->data['subject'])      
+            ->line('Subject: '.$this->data['subject'])      
             ->line('Message:')
             ->line('--------------------------------------')
             ->line(' '.$this->data['message'])    
