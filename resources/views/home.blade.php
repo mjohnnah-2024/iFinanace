@@ -58,7 +58,7 @@
                <div class="offset-xl-2 col-xl-8 offset-md-2 col-md-8 offset-md-2 col-md-8 col-sm-12 col-12">
                     <div class="mb60 text-center section-title">
                         <!-- section title-->
-                        <h1>Our Lending Services</h1>
+                        <h1>Our lending services</h1>
                         <p>iFinance offers personal and business lending services. For personal loans, it caters to both private and public sector employees, aiming to provide easy access to financial services through innovative solutions and superior service delivery.</p>
                     </div>
                     <!-- /.section title-->
@@ -118,6 +118,7 @@
                             </ul>
                         </p>                        
                     </div>
+                    <br />
                 </div>
                 <!-- /.process -->
                 <!-- process -->
@@ -125,16 +126,17 @@
                     <div class="bg-white pinside40 number-block mb30">
                         <div class="pink-circle circle"><span class="number">2</span></div>
                         <h3>Get Approval</h3>
-                        <p>Get your loan approved by submitting your completed loan application form togather with the required documenations.</p>
+                        <p>Get your loan approved by submitting your completed loan application form togather with the required documenations.</p>    
+                        <br /> <br /><br /> <br /><br /><br />
                     </div>
-                </div>
-                <!-- /.process -->
+                </div>                      
                 <!-- process -->
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12">
                     <div class="bg-white pinside40 number-block mb30">
                         <div class="pink-circle circle"><span class="number">3</span></div>
                         <h3>Secure Your Funds</h3>
                         <p>You have acces to your funds to finance your personal, business or refinancing needs.</p>
+                        <br /> <br /> <br /><br /> <br /><br /><br />
                     </div>
                 </div>
                 <!-- /.process -->
@@ -161,8 +163,6 @@
     </div>
 </div>
 <!-- /.cta-section -->
-
-
     <div class="section-space80 bg-white">
         <div class="container">
             <div class="row">
