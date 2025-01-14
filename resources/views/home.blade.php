@@ -154,8 +154,12 @@
                     <!-- section title start-->
                     <h1 class="text-white">Let’s discuss your needs</h1>
                     <p class="text-white">Contact us today to learn more about our services or to discuss your financial needs. Our team of knowledgeable experts is always available to provide you with the guidance and support you need to make informed decisions about your finances.</p>
-                    <a href="/contact-us" class="btn btn-warning">Contact Us Now</a>
+                    <span>
+                    <a href="/contact-us" class="btn btn-warning">Contact Us Now</a> 
+                    </span>
+                    <span class="ml-2">                  
                     <a href="/products" class="btn btn-dark">Read More On Our Loan Products</a>
+                    </span>                   
                 </div>
                 <!-- /.section title start-->
             </div>
