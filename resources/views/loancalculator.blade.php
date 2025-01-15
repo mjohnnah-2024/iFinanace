@@ -45,7 +45,7 @@
                                         <span class="pull-right" id="la_value">500</span></strong>
                                     <input type="text" data-slider="true" value="500" data-slider-range="500,100000" data-slider-step="100" data-slider-snap="true" id="la">
                                     <hr>
-                                    <span>No. of Forthnight <strong>
+                                    <span>No. of Forthnights <strong>
                                         <span class="pull-right"  id="nm_value">3</span> </strong>
                                     </span>
                                     <input type="text" data-slider="true" value="1" data-slider-range="3,78" data-slider-step="1" data-slider-snap="true" id="nm">
@@ -60,7 +60,7 @@
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="bg-light pinside30 outline">
-                                            Forthnighly Payment
+                                            Forthnightly Payment
                                             <h2 id='emi' class="pull-right"></h2>
                                         </div>
                                     </div>

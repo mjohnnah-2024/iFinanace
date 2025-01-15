@@ -75,7 +75,7 @@
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="eligibility">
                                             <h1>Our Mission</h1>
-                                            <p>To provide innovative and customized financial solutions, utilizing  the best cost-effective with a customer-centric approach to improve standards of living while harnessing and developing employees for a rewarding future.</p>
+                                            <p>To provide innovative and customized financial solutions, utilizing  the best cost-effective technology with a customer-centric approach to improve standards of living while harnessing and developing employees for a rewarding future.</p>
 
                                         </div>
                                         <div role="tabpanel" class="tab-pane" id="documentation">

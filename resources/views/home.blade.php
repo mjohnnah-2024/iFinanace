@@ -111,10 +111,11 @@
                         <div class="pink-circle circle"><span class="number">1</span></div>
                         <h3>Complete the form</h3>
                         <p>Download and complete the loan application forms. Each form should contain all necessary information.
-                            <ul class="listnone bullet list-pdf-file">
-                                <li><a href="{{ asset('forms/Personal_Loans.pdf') }}"> Personal Loan Application Form</a></li>
-                                <li><a href="{{ asset('forms/Business_Loans.pdf') }}"> Business Loan Application Form</a></li>                            
-                                <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}"> Refinance Loan Application Form</a></li>                            
+                            <ul class="listnone bullet list-pdf-file text-left">
+                                <li><a href="{{ asset('forms/Personal_Loans.pdf') }}"> Personal Loan Application Form</a></li>                                
+                                <li><a href="{{ asset('forms/Business_Loans.pdf') }}"> Business Loan Application Form</a></li>
+                                <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}"> Refinance Loan Application Form</a></li>
+                                                        
                             </ul>
                         </p>                        
                     </div>
