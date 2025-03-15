@@ -51,7 +51,7 @@
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
                                 <p class="call-text"><span><i class="icon-phone-call icon-1x"></i></span>3112200/3112202<br>
-                                <span><i class="icon-letter icon-1x"></i></span>enquiry@ifinancepng.com</p>
+                                <span><i class="icon-letter icon-1x"></i></span>helpdesk@ifinancepng.com</p>
                             </div>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
-                    <p>&#169; iFinance PNG LTD  | Degined by <a href="https://www.nextgenpng.net" target="_blank">Nextgen Technology</a></p>
+                    <p>&#169; i-Finance PNG LTD  | Degined by <a href="https://www.nextgenpng.net" target="_blank">Nextgen Technology</a></p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-right">
                     <p>Terms of use | Privacy Policy</p>

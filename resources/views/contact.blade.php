@@ -137,7 +137,7 @@
                                 <div class="bg-boxshadow pinside60 outline text-center mb30">
                                     <div class="mb40"> <i class="icon-letter icon-2x icon-default"></i></div>
                                     <h2 class="capital-title">Email Address</h2>
-                                    <p>enquiry@ifinancepng.com</p>
+                                    <p>helpdesk@ifinancepng.com</p>
                                     <br /><br /> <br /><br />
                                 </div>
                             </div>

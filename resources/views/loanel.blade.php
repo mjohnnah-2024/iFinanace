@@ -14,7 +14,7 @@
                 <div class="bg-white pinside30">
                     <div class="row">
                        <div class="col-xl-4 col-lg-4 col-md-9 col-sm-12 col-12">
-                            <h1 class="page-title">Loan Calculator</h1>
+                            <h1 class="page-title">Eligibility Check</h1>
                         </div>
                         <div class="col-xl-8 col-lg-8 col-md-3 col-sm-12 col-12">
                             <div class="row">
@@ -42,25 +42,30 @@
                                 <div class="bg-light pinside40 outline">
                                     <span>Loan Amount </span>
                                     <strong>
-                                        <span class="pull-right" id="la_value">500</span></strong>
-                                    <input type="text" data-slider="true" value="500" data-slider-range="500,100000" data-slider-step="100" data-slider-snap="true" id="la">
+                                        <span class="pull-right" id="la_value">100</span></strong>
+                                    <input type="text" data-slider="true" value="100" data-slider-range="100,100000" data-slider-step="100" data-slider-snap="true" id="la">
                                     <hr>
-                                    <span>No. of Fortnights <strong>
+                                    <span>Net Fortnightly Income (Net plus Allowances) </span>
+                                    <strong>
+                                        <span class="pull-right" id="ni_value">1000</span></strong>
+                                    <input type="text" data-slider="true" value="100" data-slider-range="100,100000" data-slider-step="100" data-slider-snap="true" id="ni">
+                                    <hr>
+                                    <span>No. of Forthnights (Loan Tenure) <strong>
                                         <span class="pull-right"  id="nm_value">3</span> </strong>
                                     </span>
-                                    <input type="text" data-slider="true" value="1" data-slider-range="3,78" data-slider-step="1" data-slider-snap="true" id="nm">
+                                    <input type="text" data-slider="true" value="1" data-slider-range="1,78" data-slider-step="1" data-slider-snap="true" id="nm">
                                     <hr>
-                                    <!--<span>Interest Rate <strong><span class="pull-right"  id="roi_value">90.89</span>
+                                    <span>Interest Rate <strong><span class="pull-right"  id="roi_value">1</span>
                                     </strong>
                                     </span>
-                                    <input type="text" data-slider="true" value="90.89" data-slider-range="90.89,90.89" data-slider-step="0.0" data-slider-snap="true" id="roi"> -->
+                                    <input type="text" data-slider="true" value="1" data-slider-range="1,100" data-slider-step="1" data-slider-snap="true" id="roi">
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                         <div class="bg-light pinside30 outline">
-                                            Fortnightly Payment
+                                            Forthnightly Payment
                                             <h2 id='emi' class="pull-right"></h2>
                                         </div>
                                     </div>
@@ -79,7 +84,7 @@
                                             Interest Percentage
                                             <h2 id='tbl_int_pge' class="pull-right"></h2>
                                         </div>
-                                    </div>--->
+                                    </div>-->
                                 </div>
                             </div>
                         </div>

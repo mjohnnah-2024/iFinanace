@@ -1,7 +1,7 @@
 <x-layout title="Home">
     <div class="slider" id="slider">
         <!-- slider -->
-        <div class="slider-img"><img src="images/slider-1.jpg" alt="iFinance - Loan Company Website" class="">
+        <div class="slider-img"><img src="images/slider-1.jpg" alt="i-Finance - Loan Company Website" class="">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
@@ -18,7 +18,7 @@
             </div>
         </div>
         <div>
-            <div class="slider-img"><img src="images/slider-2.jpg" alt="iFinance - Loan Company Website" class="">
+            <div class="slider-img"><img src="images/slider-2.jpg" alt="i-Finance - Loan Company Website" class="">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
@@ -34,7 +34,7 @@
             </div>
         </div>
         <div>
-            <div class="slider-img"><img src="images/slider-3.jpg" alt="iFinance - Loan Company Website" class="">
+            <div class="slider-img"><img src="images/slider-3.jpg" alt="i-Finance - Loan Company Website" class="">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
@@ -59,7 +59,7 @@
                     <div class="mb60 text-center section-title">
                         <!-- section title-->
                         <h1>Our lending services</h1>
-                        <p>iFinance offers personal and business lending services. For personal loans, it caters to both private and public sector employees, aiming to provide easy access to financial services through innovative solutions and superior service delivery.</p>
+                        <p>i-Finance offers personal and business lending services. For personal loans, it caters to both private and public sector employees, aiming to provide easy access to financial services through innovative solutions and superior service delivery.</p>
                     </div>
                     <!-- /.section title-->
                 </div>
@@ -185,7 +185,7 @@
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
                         <div class="mb40"><i class="icon-letter icon-2x icon-default"></i></div>
                         <h2 class="capital-title">Email Us</h2>
-                        <p> enquiry@ifinancepng.com</p>
+                        <p> helpdesk@ifinancepng.com</p>
                         <p>lending@ifinancepng.com</p>            
                         <a href="/contact-us" class="btn-link">Send Us A Quick Message</a>
                         <br /> <br />

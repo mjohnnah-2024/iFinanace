@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="i-git Finance - is the loan finance company.">
+    <meta name="description" content="i-Finance - is the loan finance company.">
     <meta name="keywords" content="Financial Companny Website, Loan Products, Personal Loan, Business SME Loan, Refinancing">
     <title></title>
     <link href="images/logo.png" rel="icon">
