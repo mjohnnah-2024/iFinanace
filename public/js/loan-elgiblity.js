@@ -21,13 +21,13 @@
      // to assign value in field1 as fixed upto two decimal..
      if (incomereq > P1) {
          document.formval3.field13.value = ("You are Eligible for this loan");
-         document.formval3.field11.value = (("₹ " + P1 + " at EMI " + "₹ " + emi1.toFixed(0)));
-         document.formval3.field12.value = ("You are Eligible for a maximum loan of " + ("₹ " + incomereq + " at EMI " + "₹ " + emi2.toFixed(0)));
+         document.formval3.field11.value = (("K " + P1 + " at EMI " + "K " + emi1.toFixed(0)));
+         document.formval3.field12.value = ("You are Eligible for a maximum loan of " + ("K " + incomereq + " at EMI " + "K " + emi2.toFixed(0)));
           
      } else {
          document.formval3.field13.value = ("You are not Eligible for this loan");
          document.formval3.field11.value = ("");
-         document.formval3.field12.value = ("You are Eligible for a maximum loan of " + ("₹ " + incomereq + " at EMI " + "₹ " + emi2.toFixed(0)));
+         document.formval3.field12.value = ("You are Eligible for a maximum loan of " + ("K " + incomereq + " at EMI " + "K " + emi2.toFixed(0)));
      }
 
      //to assign value in field2.. 
