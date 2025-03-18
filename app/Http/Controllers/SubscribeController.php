@@ -20,7 +20,7 @@ class SubscribeController extends Controller
         //defer(fn () => Metrics::reportOrder($order));
  
 
-     defer(fn ()=>   Mail::to('webmaster@ifinancepng.com')->send(new SubscribeMail([        
+     defer(fn ()=>   Mail::to('ifinancepng@nextgenpng.net')->send(new SubscribeMail([        
             'email' => $data['email'],
             
         ])));
