@@ -112,9 +112,9 @@
                         <h3>Complete the form</h3>
                         <p>Download and complete the loan application forms. Each form should contain all necessary information.
                             <ul class="listnone bullet list-pdf-file text-left">
-                                <li><a href="{{ asset('forms/Personal_Loans.pdf') }}"> Personal Loan Application Form</a></li>                                
-                                <li><a href="{{ asset('forms/Business_Loans.pdf') }}"> Business Loan Application Form</a></li>
-                                <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}"> Refinance Loan Application Form</a></li>
+                                <li><a href="{{ asset('forms/Personal_Loans.pdf') }}" target="_blank"> Personal Loan Application Form</a></li>                                
+                                <li><a href="{{ asset('forms/Business_Loans.pdf') }}" target="_blank"> Business Loan Application Form</a></li>
+                                <li><a href="{{ asset('forms/Refinance_Loans.pdf') }}" target="_blank"> Refinance Loan Application Form</a></li>
                                                         
                             </ul>
                         </p>                        
@@ -207,7 +207,7 @@
                         <h2 class="capital-title">Visit Us</h2>
                         <p>Mutual Rumana Building, <br> Sec 45, Lot 12 & 13 <br>
                             Waigani Drive, <br> Port Moresby, NCD.</p>
-                        <a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9" class="btn-link">Find Our Location</a> </div>
+                        <a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9" target="_blank" class="btn-link">Find Our Location</a> </div>
                 </div>
             </div>
         </div>

@@ -8,7 +8,7 @@
             <ul>
                     <li><a href="/loan-calculator" title="Loan Calculator" class="animsition-link">Loan Calculator</a></li>
                     <li><a href="/loan-eligibility" title="Loan Eligibility Calculator" class="animsition-link">Loan Eligibility Calculator</a></li>
-                    <li><a href="{{ asset('loan-repayment-schedule.pdf') }}" title="Loan Repayment Schedule" class="animsition-link">Loan Repayment Schedule</a></li>
+                    <li><a href="{{ asset('loan-repayment-schedule.pdf') }}" target="_blank" title="Loan Repayment Schedule" class="animsition-link">Loan Repayment Schedule</a></li>
             </ul>
             </li>
             <li><a href="/contact-us" class="animsition-link">Contact</a></li>

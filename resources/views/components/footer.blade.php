@@ -62,7 +62,7 @@
                         <!-- widget footer -->
                         <ul class="listnone">
                             <li><a href="/products">Lending Services</a></li>
-                            <li><a href="https://www.linkedin.com/company/i-finance-png/posts/?feedView=all">Career</a></li>                           
+                            <li><a href="https://www.linkedin.com/company/i-finance-png/posts/?feedView=all" target="_blank">Career</a></li>                           
                             <li><a href="/contact-us">Contact Us</a></li>
                         </ul>
                     </div>
@@ -84,9 +84,9 @@
                     <div class="widget-social mt40">
                         <!-- widget footer -->
                         <ul class="listnone">
-                            <li><a href="https://www.linkedin.com/company/i-finance-png/"><i class="fa fa-facebook"></i>Facebook</a></li>
-                            <li><a href="https://www.linkedin.com/company/i-finance-png"><i class="fa fa-linkedin"></i>Linked In</a></li>
-                            <li><a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9"><i class="fa fa-google-plus"></i>Google Map</a></li>                           
+                            <li><a href="https://www.linkedin.com/company/i-finance-png/" target="_blank"><i class="fa fa-facebook"></i>Facebook</a></li>
+                            <li><a href="https://www.linkedin.com/company/i-finance-png" target="_blank"><i class="fa fa-linkedin"></i>Linked In</a></li>
+                            <li><a href="https://maps.app.goo.gl/RoioD87nJKb62fnq9" target="_blank"><i class="fa fa-google-plus"></i>Google Map</a></li>                           
                         </ul>
                     </div>
                     <!-- /.widget footer -->
