@@ -51,6 +51,7 @@
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6">
                                 <p class="call-text"><span><i class="icon-phone-call icon-1x"></i></span>3112200/3112202<br>
+                                    <span><i class="fa fa-mobile fa-3x"></i></span>+675 7847 1089<br>
                                 <span><i class="icon-letter icon-1x"></i></span>helpdesk@ifinancepng.com</p>
                             </div>
                         </div>
