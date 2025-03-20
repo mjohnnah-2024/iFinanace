@@ -1,12 +1,10 @@
 
-## About i-Finance Website ....readme to be updated.
+## About i-Finance Website 
 
 iFinance website is build on the laravel web framework, utilizing benefits such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
--
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
