@@ -26,7 +26,7 @@ class ContactFormSubmitted
     public function handle(SubmitContactForm $event): void
     {
         //Mail::to('admin@ifinancepng.com')->send(new NotifyAdmin($event->data));
-        Notification::route('mail', 'ifinancepng@nextgenpng.net')->notify(new NotifyAdmin($event->data));
+        Notification::route('mail', 'markjohnnah@gmail.com')->notify(new NotifyAdmin($event->data));
         //Notification::route('mail', $event->data['email'])->notify(new NotifyClient($event->data));
     }
 }
